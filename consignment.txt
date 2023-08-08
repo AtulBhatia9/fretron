@@ -1,0 +1,1784 @@
+{
+	"consignment": {
+		"salesOrderId": null,
+		"fuLineItemIds": null,
+		"pod": {
+			"receivedBy": null,
+			"unloadingFinishDate": 1686558735000,
+			"documents": null,
+			"trackingDetail": null,
+			"consignmentId": "a1033d05-e41b-4a43-bcdd-80740ddddae7",
+			"receiveDate": null,
+			"externalId": null,
+			"submissionDate": 1686559253972,
+			"expectedSubmissionDate": null,
+			"feedingStatus": "CREATED",
+			"updates": null,
+			"type": "POD",
+			"issues": null,
+			"uuid": "0aea65d8-51dd-4d22-bbc8-bfe1c1671e6b",
+			"customField": null,
+			"deliveryItems": null,
+			"unloadingStartDate": 1686554850000,
+			"vehicleReleaseDate": null,
+			"shipmentId": null,
+			"reportingDate": 1686546564000,
+			"submissionPlace": null,
+			"remarks": null,
+			"status": "SUBMITTED"
+		},
+		"customFields": [{
+				"indexedValue": [
+					"Ship to Party_1030000020"
+				],
+				"fieldKey": "Ship to Party",
+				"multiple": false,
+				"description": null,
+				"remark": null,
+				"uuid": null,
+				"required": false,
+				"accessType": null,
+				"input": null,
+				"unit": null,
+				"valueType": "string",
+				"options": null,
+				"fieldType": "string",
+				"value": "1030000020",
+				"isRemark": false
+			},
+			{
+				"indexedValue": [
+					"Delay Days_000"
+				],
+				"fieldKey": "Delay Days",
+				"multiple": false,
+				"description": null,
+				"remark": null,
+				"uuid": null,
+				"required": false,
+				"accessType": null,
+				"input": null,
+				"unit": null,
+				"valueType": "string",
+				"options": null,
+				"fieldType": "string",
+				"value": "000",
+				"isRemark": false
+			},
+			{
+				"indexedValue": [
+					"SMS Sent_No"
+				],
+				"fieldKey": "SMS Sent",
+				"multiple": false,
+				"description": null,
+				"remark": null,
+				"uuid": null,
+				"required": false,
+				"accessType": null,
+				"input": null,
+				"unit": null,
+				"valueType": "string",
+				"options": [
+					"Yes",
+					"No"
+				],
+				"fieldType": "yes-no",
+				"value": "No",
+				"isRemark": false
+			},
+			{
+				"indexedValue": [
+					"Email Sent_Yes"
+				],
+				"fieldKey": "Email Sent",
+				"multiple": false,
+				"description": null,
+				"remark": null,
+				"uuid": null,
+				"required": false,
+				"accessType": null,
+				"input": null,
+				"unit": null,
+				"valueType": "string",
+				"options": [
+					"Yes",
+					"No"
+				],
+				"fieldType": "yes-no",
+				"value": "Yes",
+				"isRemark": false
+			},
+			{
+				"indexedValue": [
+					"EPOD Link_https://alpha.fretron.com/trip-share/vehicleLocation/consignment?code=XDnOUdb"
+				],
+				"fieldKey": "EPOD Link",
+				"multiple": false,
+				"description": null,
+				"remark": null,
+				"uuid": null,
+				"required": false,
+				"accessType": null,
+				"input": null,
+				"unit": null,
+				"valueType": "string",
+				"options": [],
+				"fieldType": "text",
+				"value": "https://alpha.fretron.com/trip-share/vehicleLocation/consignment?code=XDnOUdb",
+				"isRemark": false
+			},
+			{
+				"indexedValue": [
+					"DriverVerificationStatus_VERIFIED"
+				],
+				"fieldKey": "DriverVerificationStatus",
+				"multiple": false,
+				"description": "Driver Verification Status",
+				"remark": null,
+				"uuid": null,
+				"required": false,
+				"accessType": null,
+				"input": null,
+				"unit": null,
+				"valueType": "string",
+				"options": [
+					"VERIFIED",
+					"UNVERIFIED"
+				],
+				"fieldType": "select",
+				"value": "VERIFIED",
+				"isRemark": false
+			}
+		],
+		"loadInfo": {
+			"material": "Cross Division,Cross Division",
+			"valueOfGoods": 0,
+			"standardMeasurement": {
+				"volume": null,
+				"packageMeasurement": null,
+				"weight": {
+					"actualDeliveredQuantity": null,
+					"density": null,
+					"netQuantity": 32.83,
+					"moisture": null,
+					"claimQuantity": null,
+					"unitOfMeasurment": "MT",
+					"standardQuantity": 0,
+					"actualLoadedQuantity": null,
+					"measurmentType": null,
+					"grossQuantity": 0,
+					"shortage": null,
+					"temperature": null,
+					"plannedLoadQuantity": null,
+					"frieghtDeductableQuantity": null
+				},
+				"containers": null,
+				"trucks": null
+			},
+			"currency": null,
+			"measurements": [{
+				"actualDeliveredQuantity": null,
+				"density": null,
+				"netQuantity": 32.83,
+				"moisture": null,
+				"claimQuantity": null,
+				"unitOfMeasurment": "MT",
+				"standardQuantity": 0,
+				"actualLoadedQuantity": null,
+				"measurmentType": null,
+				"grossQuantity": 0,
+				"shortage": null,
+				"temperature": null,
+				"plannedLoadQuantity": null,
+				"frieghtDeductableQuantity": null
+			}]
+		},
+		"customerPsnNo": null,
+		"invoiceValue": "0.0",
+		"updates": {
+			"traceID": "d731927d-1d1b-49f8-ab1a-d81729e2b8a0",
+			"resourceId": "a1033d05-e41b-4a43-bcdd-80740ddddae7",
+			"updatedBy": "SYSTEM",
+			"changes": null,
+			"sourceOfInformation": null,
+			"description": null,
+			"forwardReasons": [
+				"ensure.lineitem.and.mapping"
+			],
+			"userId": null,
+			"uuid": "1239563a-dda2-4c30-90f5-23c9e49a297c",
+			"revision": 28,
+			"time": 1686596550032,
+			"forwardedFrom": null,
+			"resourceType": "Consignment",
+			"updateType": null
+		},
+		"uuid": "a1033d05-e41b-4a43-bcdd-80740ddddae7",
+		"orgId": "d255a000-f271-489e-9408-b9fb7d592b44",
+		"consigner": {
+			"geoFence": null,
+			"documents": [],
+			"customFields": null,
+			"isPortalEnabled": false,
+			"type": "customer",
+			"updates": null,
+			"uuid": "f995f387-4473-4b54-a752-409a7ee30ef8",
+			"orgId": "d255a000-f271-489e-9408-b9fb7d592b44",
+			"firmType": "INDIVISUAL",
+			"gstn": null,
+			"voterId": null,
+			"verificationTicketId": null,
+			"group": {
+				"name": "Consignee",
+				"partnerType": null,
+				"uuid": null,
+				"orgId": null
+			},
+			"address": "{\"address\":null,\"city\":null,\"state\":null,\"pincode\":null}",
+			"verificationStatus": "unverified",
+			"externalId": "SP1210",
+			"panNumber": null,
+			"aadharNo": null,
+			"parentId": null,
+			"places": [{
+				"hubId": null,
+				"boundary": null,
+				"address": "36A, Sirsa Rd, BHP colony, Industrial Area, Hisar, Haryana 125011, India",
+				"accessibility": "public",
+				"addedBy": "d255a000-f271-489e-9408-b9fb7d592b44",
+				"center": {
+					"latitude": 29.1301033,
+					"longitude": 75.7728275
+				},
+				"suggestedRadius": 0,
+				"isOwned": false,
+				"centerCoordinates": [
+					75.7728275,
+					29.1301033
+				],
+				"placeId": "c4e30b95-ab33-45c6-9c24-bfedf6da5477",
+				"geoJsonBoundry": null,
+				"externalId": null,
+				"source": "FRETRON",
+				"places": null,
+				"viewport": null,
+				"district": null,
+				"name": "Jindal Stainless Limited-CRD",
+				"state": null,
+				"category": "Manufacturing Plant/Factory/Yard",
+				"subDistrict": null,
+				"controllingBranchId": null
+			}],
+			"route": null,
+			"name": "JSHL CRD",
+			"location": null,
+			"fretronId": null,
+			"contacts": null,
+			"status": "ACTIVE"
+		},
+		"lineItems": [{
+				"itemNumber": "1",
+				"transportationServiceId": null,
+				"material": {
+					"unitOfMeasurement": null,
+					"measuredQuantity": null,
+					"partnerName": null,
+					"materialType": null,
+					"externalId": null,
+					"updates": null,
+					"taxCode": null,
+					"uuid": "FAKE",
+					"orgId": null,
+					"pricePerUnit": null,
+					"materialDescription": null,
+					"division": null,
+					"controlCode": null,
+					"materialGroup": null,
+					"materialGroupId": null,
+					"name": "Cross Division",
+					"measurementType": null,
+					"partnerId": null,
+					"linkedMaterialId": null
+				},
+				"valueOfGoods": null,
+				"customFields": null,
+				"externalId": null,
+				"invoiceNo": null,
+				"customerMaterial": null,
+				"uuid": "4e46e787-eaf4-47be-ba04-80ba97c58b0f"
+			},
+			{
+				"itemNumber": "2",
+				"transportationServiceId": null,
+				"material": {
+					"unitOfMeasurement": null,
+					"measuredQuantity": null,
+					"partnerName": null,
+					"materialType": null,
+					"externalId": null,
+					"updates": null,
+					"taxCode": null,
+					"uuid": "FAKE",
+					"orgId": null,
+					"pricePerUnit": null,
+					"materialDescription": null,
+					"division": null,
+					"controlCode": null,
+					"materialGroup": null,
+					"materialGroupId": null,
+					"name": "Cross Division",
+					"measurementType": null,
+					"partnerId": null,
+					"linkedMaterialId": null
+				},
+				"valueOfGoods": null,
+				"customFields": null,
+				"externalId": null,
+				"invoiceNo": null,
+				"customerMaterial": null,
+				"uuid": "daec7ae8-e854-4c9a-b68b-e83d42ab1d9e"
+			}
+		],
+		"pssNo": null,
+		"eWayBillNumber": null,
+		"billingType": null,
+		"podDocument": null,
+		"invoiceNo": null,
+		"deliveryDate": 1686569964000,
+		"associatedShipments": [
+			"673065ea-67b3-49e6-9c2c-56234f26be33"
+		],
+		"originalEdd": null,
+		"consignee": {
+			"geoFence": null,
+			"documents": [],
+			"customFields": null,
+			"isPortalEnabled": false,
+			"type": "customer",
+			"updates": null,
+			"uuid": "dc349b9a-877b-4c3f-a4a4-87005e06fe6b",
+			"orgId": "d255a000-f271-489e-9408-b9fb7d592b44",
+			"firmType": "INDIVISUAL",
+			"gstn": null,
+			"voterId": null,
+			"verificationTicketId": null,
+			"group": {
+				"name": "Consignee",
+				"partnerType": null,
+				"uuid": null,
+				"orgId": null
+			},
+			"address": "{\"address\":null,\"city\":null,\"state\":null,\"pincode\":null}",
+			"verificationStatus": "unverified",
+			"externalId": "1030000020",
+			"panNumber": null,
+			"aadharNo": null,
+			"parentId": null,
+			"places": [{
+				"hubId": null,
+				"boundary": null,
+				"address": "Gurgaon, Haryana 122413",
+				"accessibility": "public",
+				"addedBy": "495b8728-c761-4fa7-83fe-db75a7d63221",
+				"center": {
+					"latitude": 28.2758359810576,
+					"longitude": 76.8891434490359
+				},
+				"suggestedRadius": 500,
+				"isOwned": false,
+				"centerCoordinates": [
+					76.8891434490359,
+					28.2758359810576
+				],
+				"placeId": "786a063d-9413-4d1c-a6e3-76e506676003",
+				"geoJsonBoundry": null,
+				"externalId": null,
+				"source": "FRETRON",
+				"places": null,
+				"viewport": null,
+				"district": null,
+				"name": "JINDAL STAINLESS STEELWAY LIMITED - gurgaon",
+				"state": null,
+				"category": "Pick up - Delivery Area",
+				"subDistrict": null,
+				"controllingBranchId": null
+			}],
+			"route": null,
+			"name": "JINDAL STAINLESS STEELWAY LIMITED - gurgaon",
+			"location": null,
+			"fretronId": null,
+			"contacts": [{
+					"emails": [
+						"ashwani@jindalstainless.com"
+					],
+					"address": null,
+					"mobileNumbers": [
+						"9810595538"
+					],
+					"mobileNumber": null,
+					"name": "ASHWANI AWASTHI",
+					"type": null
+				},
+				{
+					"emails": [
+						"keshav.karnuk@jindalsteelway.com"
+					],
+					"address": null,
+					"mobileNumbers": [
+						"8930413860"
+					],
+					"mobileNumber": null,
+					"name": "Mr. Keshav",
+					"type": null
+				},
+				{
+					"emails": [
+						"kumar.deepak@jindalstainless.com "
+					],
+					"address": null,
+					"mobileNumbers": [],
+					"mobileNumber": null,
+					"name": "DEEPAK KUMAR",
+					"type": null
+				},
+				{
+					"emails": [
+						"rajesh.pandian@jindalstainless.com "
+					],
+					"address": null,
+					"mobileNumbers": [],
+					"mobileNumber": null,
+					"name": "B.Rajesh Pandian",
+					"type": null
+				},
+				{
+					"emails": [
+						"kumar.deepak@jindalstainless.com "
+					],
+					"address": null,
+					"mobileNumbers": [],
+					"mobileNumber": null,
+					"name": "DEEPAK KUMAR (KAM)",
+					"type": null
+				},
+				{
+					"emails": [
+						"rajesh.pandian@jindalstainless.com "
+					],
+					"address": null,
+					"mobileNumbers": [],
+					"mobileNumber": null,
+					"name": "B.Rajesh Pandian (KAM)",
+					"type": null
+				},
+				{
+					"emails": [
+						"kp.singh@jindalsteelway.com"
+					],
+					"address": null,
+					"mobileNumbers": [
+						"9717699457"
+					],
+					"mobileNumber": null,
+					"name": "KP singh",
+					"type": null
+				},
+				{
+					"emails": [
+						"storejssl@jindalsteelway.com"
+					],
+					"address": null,
+					"mobileNumbers": [
+						"8930413860"
+					],
+					"mobileNumber": null,
+					"name": "Stores",
+					"type": null
+				},
+				{
+					"emails": [],
+					"address": null,
+					"mobileNumbers": [
+						"9999097735"
+					],
+					"mobileNumber": null,
+					"name": "Nishant",
+					"type": null
+				}
+			],
+			"status": "ACTIVE"
+		},
+		"address": null,
+		"edd": null,
+		"salesOffice": null,
+		"consignmentDate": 1686502346601,
+		"externalId": "0090448561",
+		"eWayBillExpiryDate": null,
+		"activeShipment": null,
+		"consignmentNo": "0090448561",
+		"currentLocation": null,
+		"billToParty": null,
+		"equipments": null,
+		"orderMappings": [{
+				"quantity": {
+					"volume": null,
+					"packageMeasurement": null,
+					"weight": {
+						"actualDeliveredQuantity": null,
+						"density": null,
+						"netQuantity": 17.669,
+						"moisture": null,
+						"claimQuantity": null,
+						"unitOfMeasurment": "MT",
+						"standardQuantity": null,
+						"actualLoadedQuantity": null,
+						"measurmentType": null,
+						"grossQuantity": null,
+						"shortage": null,
+						"temperature": null,
+						"plannedLoadQuantity": null,
+						"frieghtDeductableQuantity": null
+					},
+					"containers": null,
+					"trucks": null
+				},
+				"orderId": null,
+				"lineItemId": null,
+				"legType": null,
+				"consignmentId": null,
+				"originLegId": null,
+				"isFullyUtilized": null,
+				"consignmentLineItemId": "4e46e787-eaf4-47be-ba04-80ba97c58b0f",
+				"source": null,
+				"containerId": null,
+				"uuid": "4c67e78c-a73b-4611-bd3c-0ffc43195cfd",
+				"fuMappings": null
+			},
+			{
+				"quantity": {
+					"volume": null,
+					"packageMeasurement": null,
+					"weight": {
+						"actualDeliveredQuantity": null,
+						"density": null,
+						"netQuantity": 15.161,
+						"moisture": null,
+						"claimQuantity": null,
+						"unitOfMeasurment": "MT",
+						"standardQuantity": null,
+						"actualLoadedQuantity": null,
+						"measurmentType": null,
+						"grossQuantity": null,
+						"shortage": null,
+						"temperature": null,
+						"plannedLoadQuantity": null,
+						"frieghtDeductableQuantity": null
+					},
+					"containers": null,
+					"trucks": null
+				},
+				"orderId": null,
+				"lineItemId": null,
+				"legType": null,
+				"consignmentId": null,
+				"originLegId": null,
+				"isFullyUtilized": null,
+				"consignmentLineItemId": "daec7ae8-e854-4c9a-b68b-e83d42ab1d9e",
+				"source": null,
+				"containerId": null,
+				"uuid": "e1865681-f9c4-4b89-9c3d-8c4e416cc33d",
+				"fuMappings": null
+			}
+		],
+		"contractId": null,
+		"workOrderNumber": null,
+		"trackingStatus": "Delivered at JINDAL STAINLESS STEELWAY LIMITED - gurgaon",
+		"eWayBillRegistrationDate": null,
+		"contractToParty": null,
+		"invoiceStatus": null,
+		"poNumber": null,
+		"status": "Delivered"
+	},
+	"shipments": [{
+		"creationTime": 1686474701541,
+		"customFields": [{
+				"indexedValue": [
+					"FO Number_6100054160"
+				],
+				"fieldKey": "FO Number",
+				"multiple": false,
+				"description": null,
+				"remark": null,
+				"uuid": null,
+				"required": false,
+				"accessType": null,
+				"input": null,
+				"unit": null,
+				"valueType": "string",
+				"options": null,
+				"fieldType": "string",
+				"value": "6100054160",
+				"isRemark": false
+			},
+			{
+				"indexedValue": [
+					"Freight Order Type_Hisar : Outbound Road Freight Order"
+				],
+				"fieldKey": "Freight Order Type",
+				"multiple": false,
+				"description": null,
+				"remark": null,
+				"uuid": null,
+				"required": false,
+				"accessType": null,
+				"input": null,
+				"unit": null,
+				"valueType": "string",
+				"options": null,
+				"fieldType": "string",
+				"value": "Hisar : Outbound Road Freight Order",
+				"isRemark": false
+			},
+			{
+				"indexedValue": [
+					"Prod Frt Group_HRCR"
+				],
+				"fieldKey": "Prod Frt Group",
+				"multiple": false,
+				"description": null,
+				"remark": null,
+				"uuid": null,
+				"required": false,
+				"accessType": null,
+				"input": null,
+				"unit": null,
+				"valueType": "string",
+				"options": null,
+				"fieldType": "string",
+				"value": "HRCR",
+				"isRemark": false
+			},
+			{
+				"indexedValue": [
+					"Transit Days_1"
+				],
+				"fieldKey": "Transit Days",
+				"multiple": false,
+				"description": null,
+				"remark": null,
+				"uuid": null,
+				"required": false,
+				"accessType": null,
+				"input": null,
+				"unit": null,
+				"valueType": "string",
+				"options": null,
+				"fieldType": "string",
+				"value": "1",
+				"isRemark": false
+			},
+			{
+				"indexedValue": [
+					"Destination_1030000020"
+				],
+				"fieldKey": "Destination",
+				"multiple": false,
+				"description": null,
+				"remark": null,
+				"uuid": null,
+				"required": false,
+				"accessType": null,
+				"input": null,
+				"unit": null,
+				"valueType": "string",
+				"options": null,
+				"fieldType": "string",
+				"value": "1030000020",
+				"isRemark": false
+			},
+			{
+				"indexedValue": [
+					"Plant_SP1200"
+				],
+				"fieldKey": "Plant",
+				"multiple": false,
+				"description": null,
+				"remark": null,
+				"uuid": null,
+				"required": false,
+				"accessType": null,
+				"input": null,
+				"unit": null,
+				"valueType": "string",
+				"options": null,
+				"fieldType": "string",
+				"value": "SP1200",
+				"isRemark": false
+			},
+			{
+				"indexedValue": [
+					"InvalidDestinationLocation_No"
+				],
+				"fieldKey": "InvalidDestinationLocation",
+				"multiple": false,
+				"description": "",
+				"remark": null,
+				"uuid": null,
+				"required": false,
+				"accessType": null,
+				"input": null,
+				"unit": null,
+				"valueType": "string",
+				"options": null,
+				"fieldType": "yes-no",
+				"value": "No",
+				"isRemark": false
+			},
+			{
+				"indexedValue": [
+					"Fleet Type_Dedicated"
+				],
+				"fieldKey": "Fleet Type",
+				"multiple": false,
+				"description": "",
+				"remark": "",
+				"uuid": null,
+				"required": false,
+				"accessType": null,
+				"input": "text",
+				"unit": "",
+				"valueType": "string",
+				"options": [],
+				"fieldType": "text",
+				"value": "Dedicated",
+				"isRemark": false
+			},
+			{
+				"indexedValue": [
+					"TrackingModeType_API"
+				],
+				"fieldKey": "TrackingModeType",
+				"multiple": false,
+				"description": "",
+				"remark": null,
+				"uuid": null,
+				"required": false,
+				"accessType": null,
+				"input": null,
+				"unit": null,
+				"valueType": "string",
+				"options": null,
+				"fieldType": "string",
+				"value": "API",
+				"isRemark": false
+			},
+			{
+				"indexedValue": [
+					"DL Number_HR2020190002229"
+				],
+				"fieldKey": "DL Number",
+				"multiple": false,
+				"description": "",
+				"remark": null,
+				"uuid": null,
+				"required": false,
+				"accessType": null,
+				"input": null,
+				"unit": null,
+				"valueType": "string",
+				"options": null,
+				"fieldType": "text",
+				"value": "HR2020190002229",
+				"isRemark": false
+			},
+			{
+				"indexedValue": [
+					"DL Expiry_25-06-25"
+				],
+				"fieldKey": "DL Expiry",
+				"multiple": false,
+				"description": "",
+				"remark": null,
+				"uuid": null,
+				"required": false,
+				"accessType": null,
+				"input": null,
+				"unit": null,
+				"valueType": "string",
+				"options": null,
+				"fieldType": "string",
+				"value": "25-06-25",
+				"isRemark": false
+			},
+			{
+				"indexedValue": [
+					"Aadhar No_"
+				],
+				"fieldKey": "Aadhar No",
+				"multiple": false,
+				"description": "",
+				"remark": null,
+				"uuid": null,
+				"required": false,
+				"accessType": null,
+				"input": null,
+				"unit": null,
+				"valueType": "string",
+				"options": null,
+				"fieldType": "text",
+				"value": "",
+				"isRemark": false
+			},
+			{
+				"indexedValue": [
+					"External Id_DID000084"
+				],
+				"fieldKey": "External Id",
+				"multiple": false,
+				"description": "",
+				"remark": null,
+				"uuid": null,
+				"required": false,
+				"accessType": null,
+				"input": null,
+				"unit": null,
+				"valueType": "string",
+				"options": null,
+				"fieldType": "text",
+				"value": "DID000084",
+				"isRemark": false
+			},
+			{
+				"indexedValue": [
+					"TripId Generated_Yes"
+				],
+				"fieldKey": "TripId Generated",
+				"multiple": false,
+				"description": "",
+				"remark": "",
+				"uuid": null,
+				"required": false,
+				"accessType": null,
+				"input": "",
+				"unit": "",
+				"valueType": "string",
+				"options": [
+					"Yes",
+					"No"
+				],
+				"fieldType": "yes-no",
+				"value": "Yes",
+				"isRemark": false
+			},
+			{
+				"indexedValue": [
+					"Delay Reason_"
+				],
+				"fieldKey": "Delay Reason",
+				"multiple": false,
+				"description": null,
+				"remark": null,
+				"uuid": null,
+				"required": false,
+				"accessType": null,
+				"input": null,
+				"unit": null,
+				"valueType": "string",
+				"options": null,
+				"fieldType": "text",
+				"value": "",
+				"isRemark": false
+			},
+			{
+				"indexedValue": [
+					"Device Submitted?_null"
+				],
+				"fieldKey": "Device Submitted?",
+				"multiple": false,
+				"description": null,
+				"remark": null,
+				"uuid": null,
+				"required": false,
+				"accessType": null,
+				"input": null,
+				"unit": null,
+				"valueType": "string",
+				"options": [
+					"Yes",
+					"No",
+					"Jodhpur"
+				],
+				"fieldType": "select",
+				"value": null,
+				"isRemark": false
+			},
+			{
+				"indexedValue": [
+					"Device Submit Date(dd/mm/yyyy)_"
+				],
+				"fieldKey": "Device Submit Date(dd/mm/yyyy)",
+				"multiple": false,
+				"description": null,
+				"remark": null,
+				"uuid": null,
+				"required": false,
+				"accessType": null,
+				"input": null,
+				"unit": null,
+				"valueType": "string",
+				"options": null,
+				"fieldType": "text",
+				"value": "",
+				"isRemark": false
+			},
+			{
+				"indexedValue": [
+					"Reverse Logistics_null"
+				],
+				"fieldKey": "Reverse Logistics",
+				"multiple": false,
+				"description": null,
+				"remark": null,
+				"uuid": null,
+				"required": false,
+				"accessType": null,
+				"input": null,
+				"unit": null,
+				"valueType": "string",
+				"options": [
+					"FRETRON",
+					"TRANSPORTER"
+				],
+				"fieldType": "select",
+				"value": null,
+				"isRemark": false
+			}
+		],
+		"transportationMode": "ByRoad",
+		"freightUnitLineItemId": null,
+		"lastSyncUpTime": 1686527366117,
+		"updates": {
+			"traceID": "consignmentTopic_6_1362046",
+			"resourceId": "673065ea-67b3-49e6-9c2c-56234f26be33",
+			"updatedBy": "SYSTEM",
+			"changes": null,
+			"sourceOfInformation": null,
+			"description": null,
+			"forwardReasons": [
+				"shipment.consignment.updated"
+			],
+			"userId": null,
+			"uuid": "8bf6bd1e-b590-48c4-b3be-17919e063600",
+			"revision": 86,
+			"time": 1686570053425,
+			"forwardedFrom": null,
+			"resourceType": "ShipmentObject",
+			"updateType": null
+		},
+		"isActive": false,
+		"uuid": "673065ea-67b3-49e6-9c2c-56234f26be33",
+		"issues": null,
+		"branch": {
+			"address": ",Jindal Tower,MDR107,Hisar,Hisar,Haryana,125001,India,in",
+			"updatedBy": null,
+			"customFields": null,
+			"regionName": null,
+			"externalId": "CRD",
+			"branchName": null,
+			"type": [
+				"Operation"
+			],
+			"updates": null,
+			"orgId": "d255a000-f271-489e-9408-b9fb7d592b44",
+			"areaId": null,
+			"geoLocation": null,
+			"regionId": null,
+			"areaName": null,
+			"name": "CRD",
+			"zoneId": null,
+			"_id": "6f029200-72ec-48d2-83c2-0cc6fc2656a2",
+			"zoneName": null,
+			"contacts": [],
+			"officeType": null,
+			"materialServices": null
+		},
+		"orgId": "d255a000-f271-489e-9408-b9fb7d592b44",
+		"shipmentType": "DirectLeg",
+		"completionTime": 1686569964000,
+		"routeId": null,
+		"shipmentTrackingStatus": null,
+		"lastForwardTime": 1686570053526,
+		"runningStatus": null,
+		"delayTrackingStatus": null,
+		"delayReasonLastUpdateTime": null,
+		"links": null,
+		"shipmentDate": 1686474699165,
+		"delayReason": null,
+		"shipmentNumber": "FRETSH000023478",
+		"originalEdd": 1686680940000,
+		"edd": 1686680940000,
+		"delayReasonUpdateExpiryTime": null,
+		"externalShipmentId": "6100054160",
+		"fleetInfo": {
+			"isTrackingEnable": null,
+			"forwardingAgent": {
+				"geoFence": null,
+				"documents": null,
+				"customFields": null,
+				"isPortalEnabled": true,
+				"type": "vendor",
+				"updates": null,
+				"uuid": "a4b7de3e-9f61-4c88-9271-c407698b38c4",
+				"orgId": "d255a000-f271-489e-9408-b9fb7d592b44",
+				"firmType": "INDIVISUAL",
+				"gstn": null,
+				"voterId": null,
+				"verificationTicketId": null,
+				"group": {
+					"name": "Transporter",
+					"partnerType": null,
+					"uuid": null,
+					"orgId": null
+				},
+				"address": "{\"address\":\"\",\"city\":\"\",\"state\":null,\"pincode\":null}",
+				"verificationStatus": "unverified",
+				"externalId": "8003349",
+				"panNumber": null,
+				"aadharNo": null,
+				"parentId": null,
+				"places": null,
+				"route": null,
+				"name": "GANESH ROADLINES PVT LTD-",
+				"location": null,
+				"fretronId": null,
+				"contacts": [{
+						"emails": [],
+						"address": null,
+						"mobileNumbers": [
+							"9896903812"
+						],
+						"mobileNumber": null,
+						"name": "GANESH ROADLINES",
+						"type": null
+					},
+					{
+						"emails": [],
+						"address": null,
+						"mobileNumbers": [
+							"9896395260"
+						],
+						"mobileNumber": null,
+						"name": "Ashwini Singhal",
+						"type": null
+					}
+				],
+				"status": "ACTIVE"
+			},
+			"verificationStatus": null,
+			"trackingMode": "VTS",
+			"broker": null,
+			"uuid": "e0b8f907-5ca2-40aa-8f10-08aef81d3317",
+			"orgId": null,
+			"vehicle": {
+				"vtsDeviceId": null,
+				"kmDriven": null,
+				"secondaryDriverId": null,
+				"attachedDocs": [
+					"b32161d7-795e-4226-a032-95158261b25a",
+					"93f33b8d-ce29-4117-a759-2a9efabc4cf1",
+					"24319b65-3971-4fb0-998c-0fd7b80256c9",
+					"7e519851-d366-4d43-b0e9-cea6ff991baa",
+					"672d4ccb-2963-4fd4-a62f-7b34267cce73"
+				],
+				"customFields": [],
+				"floorType": null,
+				"description": null,
+				"source": "FRETRON",
+				"isTrackingEnabled": false,
+				"updates": null,
+				"uuid": null,
+				"branch": null,
+				"orgId": "d255a000-f271-489e-9408-b9fb7d592b44",
+				"vehicleLoadType": null,
+				"associatedWith": null,
+				"isDeleted": null,
+				"customerId": null,
+				"vehicleModel": null,
+				"mileageEmpty": null,
+				"mileageLoaded": null,
+				"vehicleType": "hire",
+				"groups": null,
+				"externalId": null,
+				"updateTime": 1646078049170,
+				"sharedWith": [],
+				"baseLocationId": null,
+				"vehicleMake": null,
+				"vehicleRegistrationNumber": "HR39D5022",
+				"chassisNumber": null,
+				"driverId": null,
+				"createTime": null,
+				"loadCapacity": null,
+				"truckLength": null,
+				"category": null,
+				"groupsExtended": null
+			},
+			"driver": {
+				"pincode": null,
+				"dlExpiryTime": 1750835948000,
+				"attachedDocs": [],
+				"isEmployee": false,
+				"pfNumber": null,
+				"address": null,
+				"mobileNumbers": null,
+				"dlNumber": "HR2020190002229",
+				"mobileNumber": "7082023301",
+				"customFields": [{
+					"indexedValue": [
+						"Aadhar Card No._897438907333"
+					],
+					"fieldKey": "Aadhar Card No.",
+					"valueType": "string",
+					"fieldType": "text",
+					"value": "897438907333",
+					"definitionId": null
+				}],
+				"externalId": "DID000084",
+				"updates": {
+					"traceID": "13575aab-c4e8-495d-9278-edb983d28f3e",
+					"resourceId": "ea7b8b55-be3f-4731-857a-709e6d9bcacc",
+					"updatedBy": "SYSTEM",
+					"changes": null,
+					"sourceOfInformation": null,
+					"description": null,
+					"forwardReasons": [
+						"driver.status.update.by.admin"
+					],
+					"userId": null,
+					"uuid": "a58b0229-d9ca-4864-90f9-04b410a17527",
+					"revision": null,
+					"time": 1651033144326,
+					"forwardedFrom": null,
+					"resourceType": "Driver",
+					"updateType": null
+				},
+				"aadharNo": null,
+				"type": null,
+				"uuid": "ea7b8b55-be3f-4731-857a-709e6d9bcacc",
+				"branch": null,
+				"orgId": "d255a000-f271-489e-9408-b9fb7d592b44",
+				"vehicleRegistrationNumber": null,
+				"name": "PARDEEP",
+				"vehicleId": null,
+				"associatedUserId": null,
+				"status": "Active"
+			},
+			"fleetType": "Market",
+			"fleetOwner": {
+				"geoFence": null,
+				"documents": [],
+				"customFields": null,
+				"isPortalEnabled": false,
+				"type": "vendor",
+				"updates": null,
+				"uuid": "f5f1644c-db39-4378-bc94-3fe0e17b3a82",
+				"orgId": "d255a000-f271-489e-9408-b9fb7d592b44",
+				"firmType": "INDIVISUAL",
+				"gstn": null,
+				"voterId": null,
+				"verificationTicketId": null,
+				"group": {
+					"name": "lorryOwner",
+					"partnerType": null,
+					"uuid": null,
+					"orgId": null
+				},
+				"address": "{\"address\":null,\"city\":null,\"state\":null,\"pincode\":null}",
+				"verificationStatus": "verified",
+				"externalId": null,
+				"panNumber": null,
+				"aadharNo": null,
+				"parentId": null,
+				"places": null,
+				"route": null,
+				"name": "Transporters Union JSL Hisar",
+				"location": null,
+				"fretronId": null,
+				"contacts": null,
+				"status": "ACTIVE"
+			},
+			"trainInfo": null,
+			"lbsNumber": null,
+			"secondaryDriver": null,
+			"device": {
+				"branchId": null,
+				"isSuspended": false,
+				"mobileNumber": null,
+				"manufacturerName": null,
+				"groups": null,
+				"attachedResourceNumber": null,
+				"externalId": null,
+				"updateTime": 1646078048779,
+				"isAssociated": null,
+				"sharedWith": null,
+				"type": null,
+				"updates": {
+					"traceID": "fa314fbb-a79d-4e12-b30e-aa9acb914095",
+					"resourceId": null,
+					"updatedBy": "USER",
+					"changes": null,
+					"sourceOfInformation": null,
+					"description": "added new device  HR39D5022ES022.",
+					"forwardReasons": [
+						"device.add.event"
+					],
+					"userId": "a42e539c-88f3-42cf-a1e7-d13e0b60833d",
+					"uuid": "c608d6d8-59bf-466a-94a2-eb7f31c35a1d",
+					"revision": null,
+					"time": 1646078048779,
+					"forwardedFrom": null,
+					"resourceType": "Device",
+					"updateType": null
+				},
+				"uuid": "906f479e-5ffc-4ae1-937d-959c766cfaa9",
+				"orgId": "d255a000-f271-489e-9408-b9fb7d592b44",
+				"attachedResourceId": null,
+				"isDeleted": null,
+				"createTime": 1646078048779,
+				"serviceProvider": null,
+				"imei": "HR39D5022ES022",
+				"usedBy": null,
+				"status": null
+			},
+			"status": null
+		},
+		"syncUpDueTime": null,
+		"billingStatus": null,
+		"currentLocation": {
+			"isFillingEnabled": false,
+			"address": "Tauru Rd, Haryana 122105, India",
+			"lngLat": [
+				76.889229,
+				28.275959
+			],
+			"odometer": null,
+			"latitude": 28.275959,
+			"course": 194.1236647831304,
+			"imei": "HR39D5022ES022",
+			"decoder": "Tpi-EtransSolutions",
+			"time": 1686546564000,
+			"vehicleId": null,
+			"speed": 0,
+			"longitude": 76.889229
+		},
+		"alerts": [],
+		"equipments": null,
+		"tripType": "Shipment",
+		"lastDelayCalculationTime": null,
+		"delayReasonUpdateDueTime": null,
+		"locationTrackingStatus": null,
+		"poLineItemId": null,
+		"consignments": [],
+		"customContacts": null,
+		"shipmentStages": [{
+				"departureTime": 1686525564000,
+				"gateInTime": 1686518011999,
+				"actualActivityStartTime": null,
+				"actualActivityEndTime": null,
+				"uuid": "e25773ed-8e55-4126-bb68-ec0e4c1d3192",
+				"consignmentDelivered": null,
+				"resourceDropOff": null,
+				"resourcePickup": null,
+				"eta": null,
+				"stageName": "SP1200",
+				"hub": null,
+				"arrivalTime": 1686481164000,
+				"expectedActivityStartTime": null,
+				"secondaryStatus": null,
+				"consignmentPickUps": [
+					"a1033d05-e41b-4a43-bcdd-80740ddddae7"
+				],
+				"tripPoint": {
+					"outOfTrackSince": null,
+					"creationTime": 1686474931229,
+					"purpose": "Pickup",
+					"plannedArrival": null,
+					"currentGpsState": {
+						"numberOfRecord": 2,
+						"totalTime": 600000,
+						"averageSpeeds": 12.071116149538186,
+						"eventType": "StateDetected",
+						"uuid": "f0688a69-0c27-4405-b0c7-0578abb2ed88",
+						"isDisconnected": false,
+						"startLocation": {
+							"isFillingEnabled": false,
+							"address": "Inner Satrod Rd, Satrod, Satrod Khurd, Hisar, Haryana 125011, India",
+							"lngLat": [
+								75.773496,
+								29.130002
+							],
+							"odometer": null,
+							"latitude": 29.130002,
+							"course": 112.86842037956939,
+							"imei": "HR39D5022ES022",
+							"decoder": "Tpi-EtransSolutions",
+							"time": 1686524964000,
+							"vehicleId": null,
+							"speed": 0,
+							"longitude": 75.773496
+						},
+						"isNoGpsZone": false,
+						"mean": {
+							"isFillingEnabled": false,
+							"address": "Inner Satrod Rd, Satrod, Satrod Khurd, Hisar, Haryana 125011, India",
+							"lngLat": [
+								75.78333699999999,
+								29.127217
+							],
+							"odometer": null,
+							"latitude": 29.127217,
+							"course": null,
+							"imei": "",
+							"decoder": null,
+							"time": 1686525264000,
+							"vehicleId": "",
+							"speed": 0,
+							"longitude": 75.78333699999999
+						},
+						"imei": "HR39D5022ES022",
+						"startTime": 1686524964000,
+						"endTime": 1686525564000,
+						"vehicleId": null,
+						"state": "Moving",
+						"totalDistance": 2011.8526915896978,
+						"endLocation": {
+							"isFillingEnabled": false,
+							"address": "Hisar Bypass Southern, Satrod Khurd, Hisar, Haryana 125011, India",
+							"lngLat": [
+								75.793178,
+								29.124432
+							],
+							"odometer": null,
+							"latitude": 29.124432,
+							"course": 107.94589439681079,
+							"imei": "HR39D5022ES022",
+							"decoder": "Tpi-EtransSolutions",
+							"time": 1686525564000,
+							"vehicleId": null,
+							"speed": 21,
+							"longitude": 75.793178
+						}
+					},
+					"updates": {
+						"traceID": "vehiclegpsstatetopic_16_19466268",
+						"resourceId": "e25773ed-8e55-4126-bb68-ec0e4c1d3192",
+						"updatedBy": "SYSTEM",
+						"changes": null,
+						"sourceOfInformation": null,
+						"description": "From AT to COMPLETED",
+						"forwardReasons": [
+							"trippoint.current.location.updated",
+							"gps.state.detected"
+						],
+						"userId": null,
+						"uuid": "0735b4b3-aacf-4e7c-a33d-d8d32df5bb2d",
+						"revision": 91,
+						"time": 1686525594381,
+						"forwardedFrom": null,
+						"resourceType": "TripPoint",
+						"updateType": null
+					},
+					"uuid": "e25773ed-8e55-4126-bb68-ec0e4c1d3192",
+					"sequenceId": null,
+					"isDisconnected": false,
+					"isOutOfTrack": false,
+					"routeDeviationMinimumDistanceConstraint": null,
+					"eta": null,
+					"routeId": null,
+					"expectedActivityStartTime": null,
+					"actualDeparture": 1686525564000,
+					"vehicleId": "HR39D5022ES022",
+					"place": {
+						"hubId": null,
+						"boundary": null,
+						"address": "36A, Sirsa Rd, BHP colony, Industrial Area, Hisar, Haryana 125011, India",
+						"accessibility": "public",
+						"addedBy": "d255a000-f271-489e-9408-b9fb7d592b44",
+						"center": {
+							"latitude": 29.1301033,
+							"longitude": 75.7728275
+						},
+						"suggestedRadius": 0,
+						"isOwned": false,
+						"centerCoordinates": [
+							75.7728275,
+							29.1301033
+						],
+						"placeId": null,
+						"geoJsonBoundry": null,
+						"externalId": null,
+						"source": "FRETRON",
+						"places": null,
+						"viewport": null,
+						"district": null,
+						"name": "Jindal Stainless Limited-CRD",
+						"state": null,
+						"category": "Manufacturing Plant/Factory/Yard",
+						"subDistrict": null,
+						"controllingBranchId": null
+					},
+					"remainingDistance": 0,
+					"actualActivityStartTime": 1686481164000,
+					"forShipmentStages": [
+						"e25773ed-8e55-4126-bb68-ec0e4c1d3192"
+					],
+					"actualActivityEndTime": 1686525564000,
+					"actualArrival": 1686481164000,
+					"purposedDistance": null,
+					"plannedDeparture": null,
+					"currentLocation": {
+						"isFillingEnabled": false,
+						"address": "Hisar Bypass Southern, Satrod Khurd, Hisar, Haryana 125011, India",
+						"lngLat": [
+							75.793178,
+							29.124432
+						],
+						"odometer": null,
+						"latitude": 29.124432,
+						"course": 107.94589439681079,
+						"imei": "HR39D5022ES022",
+						"decoder": "Tpi-EtransSolutions",
+						"time": 1686525564000,
+						"vehicleId": null,
+						"speed": 21,
+						"longitude": 75.793178
+					},
+					"isAutoCompleted": true,
+					"coveredDistance": 3761.067526632104,
+					"hub": {
+						"hubId": null,
+						"boundary": null,
+						"address": "36A, Sirsa Rd, BHP colony, Industrial Area, Hisar, Haryana 125011, India",
+						"accessibility": "public",
+						"addedBy": "d255a000-f271-489e-9408-b9fb7d592b44",
+						"center": {
+							"latitude": 29.1301033,
+							"longitude": 75.7728275
+						},
+						"suggestedRadius": 0,
+						"isOwned": false,
+						"centerCoordinates": [
+							75.7728275,
+							29.1301033
+						],
+						"placeId": null,
+						"geoJsonBoundry": null,
+						"externalId": null,
+						"source": "FRETRON",
+						"places": null,
+						"viewport": null,
+						"district": null,
+						"name": "Jindal Stainless Limited-CRD",
+						"state": null,
+						"category": "Manufacturing Plant/Factory/Yard",
+						"subDistrict": null,
+						"controllingBranchId": null
+					},
+					"imei": "HR39D5022ES022",
+					"assosiatedShipmentsId": [
+						"673065ea-67b3-49e6-9c2c-56234f26be33"
+					],
+					"status": "COMPLETED"
+				},
+				"place": {
+					"hubId": null,
+					"boundary": null,
+					"address": "36A, Sirsa Rd, BHP colony, Industrial Area, Hisar, Haryana 125011, India",
+					"accessibility": "public",
+					"addedBy": "d255a000-f271-489e-9408-b9fb7d592b44",
+					"center": {
+						"latitude": 29.1301033,
+						"longitude": 75.7728275
+					},
+					"suggestedRadius": 0,
+					"isOwned": false,
+					"centerCoordinates": [
+						75.7728275,
+						29.1301033
+					],
+					"placeId": null,
+					"geoJsonBoundry": {
+						"coordinates": [
+							[
+								[
+									75.77416406432762,
+									29.12964317507173
+								],
+								[
+									75.77239394187927,
+									29.130102395094777
+								],
+								[
+									75.77140691056348,
+									29.13043977992712
+								],
+								[
+									75.76966881555636,
+									29.131217635182796
+								],
+								[
+									75.76653588545477,
+									29.132726470163572
+								],
+								[
+									75.7679092314565,
+									29.138686620387357
+								],
+								[
+									75.776792417073,
+									29.13618452393826
+								],
+								[
+									75.77416406432762,
+									29.12964317507173
+								]
+							]
+						],
+						"type": "Polygon"
+					},
+					"externalId": null,
+					"source": "FRETRON",
+					"places": null,
+					"viewport": null,
+					"district": null,
+					"name": "Jindal Stainless Limited-CRD",
+					"state": null,
+					"category": "Manufacturing Plant/Factory/Yard",
+					"subDistrict": null,
+					"controllingBranchId": null
+				},
+				"controllingBranchId": null,
+				"gateOutTime": 1686518012000,
+				"status": "COMPLETED"
+			},
+			{
+				"departureTime": 1686569964000,
+				"gateInTime": null,
+				"actualActivityStartTime": null,
+				"actualActivityEndTime": null,
+				"uuid": "28631e31-125c-4300-8953-95bb9fce12bf",
+				"consignmentDelivered": [
+					"a1033d05-e41b-4a43-bcdd-80740ddddae7"
+				],
+				"resourceDropOff": null,
+				"resourcePickup": null,
+				"eta": 1686680940000,
+				"stageName": null,
+				"hub": null,
+				"arrivalTime": 1686546564000,
+				"expectedActivityStartTime": null,
+				"secondaryStatus": null,
+				"consignmentPickUps": null,
+				"tripPoint": {
+					"outOfTrackSince": null,
+					"creationTime": 1686525594656,
+					"purpose": "Delivery",
+					"plannedArrival": null,
+					"currentGpsState": {
+						"numberOfRecord": 2,
+						"totalTime": 600000,
+						"averageSpeeds": 5.668611558413656,
+						"eventType": "StateDetected",
+						"uuid": "c837b611-dbc4-4e06-8265-ea66ec6b652b",
+						"isDisconnected": false,
+						"startLocation": {
+							"isFillingEnabled": false,
+							"address": "Tauru Rd, Haryana 122105, India",
+							"lngLat": [
+								76.885088,
+								28.27792
+							],
+							"odometer": null,
+							"latitude": 28.27792,
+							"course": 290.87417934599375,
+							"imei": "HR39D5022ES022",
+							"decoder": "Tpi-EtransSolutions",
+							"time": 1686569364000,
+							"vehicleId": null,
+							"speed": 0,
+							"longitude": 76.885088
+						},
+						"isNoGpsZone": false,
+						"mean": {
+							"isFillingEnabled": false,
+							"address": "Tauru Rd, Haryana 122015, India",
+							"lngLat": [
+								76.8807525,
+								28.279772
+							],
+							"odometer": null,
+							"latitude": 28.279772,
+							"course": null,
+							"imei": "",
+							"decoder": null,
+							"time": 1686569664000,
+							"vehicleId": "",
+							"speed": 0,
+							"longitude": 76.8807525
+						},
+						"imei": "HR39D5022ES022",
+						"startTime": 1686569364000,
+						"endTime": 1686569964000,
+						"vehicleId": null,
+						"state": "Moving",
+						"totalDistance": 944.7685930689427,
+						"endLocation": {
+							"isFillingEnabled": false,
+							"address": "Tauru Rd, Haryana 122015, India",
+							"lngLat": [
+								76.876417,
+								28.281624
+							],
+							"odometer": null,
+							"latitude": 28.281624,
+							"course": 295.87851324829296,
+							"imei": "HR39D5022ES022",
+							"decoder": "Tpi-EtransSolutions",
+							"time": 1686569964000,
+							"vehicleId": null,
+							"speed": 27,
+							"longitude": 76.876417
+						}
+					},
+					"updates": {
+						"traceID": "vehiclegpsstatetopic_16_19522022",
+						"resourceId": "28631e31-125c-4300-8953-95bb9fce12bf",
+						"updatedBy": "SYSTEM",
+						"changes": null,
+						"sourceOfInformation": null,
+						"description": "From AT to COMPLETED",
+						"forwardReasons": [
+							"trippoint.current.location.updated",
+							"gps.state.detected"
+						],
+						"userId": null,
+						"uuid": "3fced551-02ca-4705-a29c-9ec6435ea4f3",
+						"revision": 71,
+						"time": 1686570052940,
+						"forwardedFrom": null,
+						"resourceType": "TripPoint",
+						"updateType": null
+					},
+					"uuid": "28631e31-125c-4300-8953-95bb9fce12bf",
+					"sequenceId": null,
+					"isDisconnected": false,
+					"isOutOfTrack": false,
+					"routeDeviationMinimumDistanceConstraint": null,
+					"eta": null,
+					"routeId": null,
+					"expectedActivityStartTime": null,
+					"actualDeparture": 1686569964000,
+					"vehicleId": "HR39D5022ES022",
+					"place": {
+						"hubId": null,
+						"boundary": null,
+						"address": "Gurgaon, Haryana 122413",
+						"accessibility": "public",
+						"addedBy": "495b8728-c761-4fa7-83fe-db75a7d63221",
+						"center": {
+							"latitude": 28.2758359810576,
+							"longitude": 76.8891434490359
+						},
+						"suggestedRadius": 500,
+						"isOwned": false,
+						"centerCoordinates": [
+							76.8891434490359,
+							28.2758359810576
+						],
+						"placeId": "786a063d-9413-4d1c-a6e3-76e506676003",
+						"geoJsonBoundry": null,
+						"externalId": null,
+						"source": "FRETRON",
+						"places": null,
+						"viewport": null,
+						"district": null,
+						"name": "JINDAL STAINLESS STEELWAY LIMITED - gurgaon",
+						"state": null,
+						"category": "Pick up - Delivery Area",
+						"subDistrict": null,
+						"controllingBranchId": null
+					},
+					"remainingDistance": 0,
+					"actualActivityStartTime": 1686546564000,
+					"forShipmentStages": [
+						"28631e31-125c-4300-8953-95bb9fce12bf"
+					],
+					"actualActivityEndTime": 1686569964000,
+					"actualArrival": 1686546564000,
+					"purposedDistance": null,
+					"plannedDeparture": null,
+					"currentLocation": {
+						"isFillingEnabled": false,
+						"address": "Tauru Rd, Haryana 122015, India",
+						"lngLat": [
+							76.876417,
+							28.281624
+						],
+						"odometer": null,
+						"latitude": 28.281624,
+						"course": 295.87851324829296,
+						"imei": "HR39D5022ES022",
+						"decoder": "Tpi-EtransSolutions",
+						"time": 1686569964000,
+						"vehicleId": null,
+						"speed": 27,
+						"longitude": 76.876417
+					},
+					"isAutoCompleted": true,
+					"coveredDistance": 159828.57898529526,
+					"hub": null,
+					"imei": "HR39D5022ES022",
+					"assosiatedShipmentsId": [
+						"673065ea-67b3-49e6-9c2c-56234f26be33"
+					],
+					"status": "COMPLETED"
+				},
+				"place": {
+					"hubId": null,
+					"boundary": null,
+					"address": "Gurgaon, Haryana 122413",
+					"accessibility": "public",
+					"addedBy": "495b8728-c761-4fa7-83fe-db75a7d63221",
+					"center": {
+						"latitude": 28.2758359810576,
+						"longitude": 76.8891434490359
+					},
+					"suggestedRadius": 500,
+					"isOwned": false,
+					"centerCoordinates": [
+						76.8891434490359,
+						28.2758359810576
+					],
+					"placeId": "786a063d-9413-4d1c-a6e3-76e506676003",
+					"geoJsonBoundry": null,
+					"externalId": null,
+					"source": "FRETRON",
+					"places": null,
+					"viewport": null,
+					"district": null,
+					"name": "JINDAL STAINLESS STEELWAY LIMITED - gurgaon",
+					"state": null,
+					"category": "Pick up - Delivery Area",
+					"subDistrict": null,
+					"controllingBranchId": null
+				},
+				"controllingBranchId": null,
+				"gateOutTime": null,
+				"status": "COMPLETED"
+			}
+		],
+		"remarks": null,
+		"syncUpExpiryTime": null,
+		"shipmentStatus": "Completed"
+	}]
+}

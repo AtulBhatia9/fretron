@@ -1,0 +1,57 @@
+
+      <html>
+        <head>
+          <title>Order Alert</title>
+          <style>
+            .table-container {
+        display: flex;
+        justify-content: center;
+      }
+            table {
+              border-collapse: collapse;
+              width: 50%;
+            }
+  
+            th,
+            td {
+              border: 1px solid black;
+              padding: 4px;
+              text-align: left;
+            }
+  
+            th {
+              background-color: #f2f2f2;
+            }
+          </style>
+        </head>
+        <body>
+          <div style="display: flex;
+          justify-content:center;">
+
+            <table>
+              <tr>
+                <th>Date</th>
+                <th>Vehicles Reported</th>
+                <th>EPOD Links to be triggered</th>
+                <th>EPOD Actually Triggered</th>
+                <th>EPOD Submitted By User</th>
+              </tr>
+              <tbody>
+            
+               <tr>
+               <td>${Date}</td>
+               <td>${orderNumber}</td>
+               <td>${netWeight}</td>
+               <td>${dispatchPlant}</td>
+               <td>${customer}</td>
+               </tr>
+              
+
+  
+        </tbody>
+      </table>
+      
+    </div>
+  </body>
+  </html>
+

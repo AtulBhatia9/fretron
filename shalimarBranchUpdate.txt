@@ -1,0 +1,224 @@
+Total Shipments: 73
+freightUnitLineItemId: 24ba4bed-b469-4c0e-98e8-70f542554f9a
+Freight Unit : [object Object]
+Order ID: 036e5db4-5b07-402b-b267-df0faa6b09af
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 561a9b33-9b13-4b97-9964-5138e8089fe6
+freightUnitLineItemId: e738c92e-5526-4126-a627-7f805ffb300a
+Freight Unit : [object Object]
+Order ID: 3e4f6521-3e21-49e7-a2f2-aa3fd9844db7
+freightUnitLineItemId: 464ff58a-3460-45b7-bade-109b42c5e08c
+Freight Unit : [object Object]
+Order ID: 25247c02-6b31-427d-b749-886d70868970
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: c011f7bd-4678-4f80-8ca3-e262ff09009d
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: effd36cc-f27b-4297-8b80-2473681f40c9
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 7606c6a5-25c7-4b98-84b4-4e8cfd27ba86
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 0e924455-8f87-4c30-ae5c-db6cfb7a4ea5
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 59dbc1d3-1cc5-48c9-8435-932402c7f03a
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: df66558a-8a27-49ce-bdcb-eede1ddbc078
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 34af8d13-d68a-4f1f-9527-9e6688f1a6d4
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: b6593282-992a-468d-bd15-1dc0e9196b36
+freightUnitLineItemId: f1e987c1-f74d-4b15-aa48-748098a10d7a
+Freight Unit : [object Object]
+Order ID: 96c16487-80b7-40ae-bd13-39be7709671f
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 14a2c104-b144-4e89-aabe-5d0073d3e07a
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: ef6995f6-1aba-4c64-a925-21bb3b9d3063
+freightUnitLineItemId: d1b7c340-1b7c-4a36-86b1-d723b96114ca
+Freight Unit : [object Object]
+Order ID: 854939be-7326-4753-8113-4b46db92a8a7
+freightUnitLineItemId: fb9ad03b-c120-4e6f-8a44-a02c6d0f4be6
+Freight Unit : [object Object]
+Order ID: 70017b3d-8fc7-4e37-b13a-e1a2f32024b4
+freightUnitLineItemId: c2a409ba-47e3-499d-82c5-9a146679e741
+Freight Unit : [object Object]
+Order ID: 2b48fa87-6e3a-4e76-a3f0-f023b7ddee0d
+Branch not found for shId: ab3b76f7-7671-4e4f-b795-e3b69d6103dc
+freightUnitLineItemId: c7307e5f-1857-4118-83de-fcd1d0e67393
+Freight Unit : [object Object]
+Order ID: 47002c09-514f-41cd-b3ab-a28e98dd51cc
+freightUnitLineItemId: d9a918e5-8827-461f-a51b-6f0c4d0ecf45
+Freight Unit : [object Object]
+Order ID: f4017aef-25b2-4e76-872d-c56bb892d27b
+freightUnitLineItemId: f8ed24de-d842-4893-b562-23b33e66d083
+Freight Unit : [object Object]
+Order ID: 444de9dc-ef98-4ccd-9b62-1df03fc3259d
+freightUnitLineItemId: ee417830-e059-468e-aaa6-dfd3777f023a
+Freight Unit : [object Object]
+Order ID: dbb705cb-43e3-4122-bb3a-6ecb4505f20f
+freightUnitLineItemId: 52798d47-8c3e-4820-8e2a-d7e6903ee5a0
+Freight Unit : [object Object]
+Order ID: 87a48c94-7625-4482-8006-5b53fd34f8b2
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 6ba4506d-18e5-42d7-a9a8-651296c00a80
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 4bcdaa97-4d26-42a2-9e71-d2799fcca03a
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: a3b227cb-9b4f-4c41-bce4-4cdfc46cc188
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 39e7d399-86c4-4614-bd56-24c892b244f1
+freightUnitLineItemId: 31db5790-f0c7-496c-8a2b-3f4cd0d4ecf5
+Freight Unit : [object Object]
+Order ID: db882eee-8b3e-416d-ab4e-5bad7b1e3709
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 54d5a218-55a6-4e8b-bcbb-ce405e12d163
+freightUnitLineItemId: aad6b8a6-40d1-4ca9-a4b7-33f88d6dde40
+Freight Unit : [object Object]
+Order ID: 3b49bf6e-2207-4b97-ae00-ca2cea2b99bb
+freightUnitLineItemId: 6cbdab8b-de22-4186-8dbf-004b852582e3
+Freight Unit : [object Object]
+Order ID: 108f0b3f-88ee-40da-9e5a-f004e3246282
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 78dd8152-cd55-4f03-9f55-b397660250eb
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: cd13ee4f-a617-4891-b9ad-80bc7180d21b
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 1f457820-9b14-4650-aeff-97e7590f6d14
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 96afb819-58a0-4a95-8998-ae835c5c7e52
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 579a1675-c11d-4206-afcf-49fa6436ef07
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: d594102c-4802-449f-a3b2-3c0f9a7dc833
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 38150267-503c-4a75-8f37-358a4198430b
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 64a431fc-e860-4d80-ac96-b0bc9baa1566
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 1a506590-ce55-4d61-b141-3b40768aac05
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 534ed9b8-e269-4515-8a09-828a437edc49
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 83b2b757-bbce-4511-8589-4689e787cf8f
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: f45e640a-b82d-4301-9901-114d87108432
+freightUnitLineItemId: 895707f3-5959-4c6e-b748-c0c81ad7a13e
+Freight Unit : [object Object]
+Order ID: 347a4f88-3d73-497d-8b4b-22ae89dbe5a3
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 12170e89-e7a4-490a-a92e-7c5cca17223a
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 175735dc-f015-443a-85df-c70760dfa35b
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 0a18823c-fe33-4a6d-8679-a7c8d5aa5b77
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 370e50ce-da44-4127-907f-ebdab3b42130
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: ead2b107-e3c5-44e1-82b6-d7803c485351
+freightUnitLineItemId: 24bfc46c-d735-4018-adc1-e0fa770867f8
+Freight Unit : [object Object]
+Order ID: be03f282-4ddd-4b3e-b9d5-db84616fa00f
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 4d018f8c-1ee5-4edd-a5ea-addc13d77057
+freightUnitLineItemId: f3c7cee3-d76a-4db5-b81a-dead979c4171
+Freight Unit : [object Object]
+Order ID: fb33ef6f-4535-43dc-921d-baaa3d4ecf09
+Branch not found for shId: fe04e375-32fb-498f-8120-f0509d690a1b
+freightUnitLineItemId: 3813115e-f25e-4935-8f44-f54929e95c72
+Freight Unit : [object Object]
+Order ID: 22d044f0-92d5-45c6-84e1-7491074d6853
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 465b6e61-9d2e-44ae-9727-8369425eeac8
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: d85723ed-2229-4e49-831a-0339da554cf0
+freightUnitLineItemId: da146b4d-50b4-4653-81f7-c568025821e8
+Freight Unit : [object Object]
+Order ID: ab0dc7bc-8def-49b8-a337-360bcdd726aa
+freightUnitLineItemId: e8653309-279d-4fd4-8076-b12bdec8c953
+Freight Unit : [object Object]
+Order ID: 2ce85d43-e963-4390-9213-e4aa4658ad01
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: fb7af3b5-2d31-4833-a45a-22277696c7fb
+freightUnitLineItemId: 879aaefa-6daf-4d3c-9299-f5fc1e0afc49
+Freight Unit : [object Object]
+Order ID: d018aa7a-3f5b-4b19-8d1d-e7444b4f7340
+freightUnitLineItemId: d31396db-ff01-4f47-895c-75f4395dc69e
+Freight Unit : [object Object]
+Order ID: fb33ef6f-4535-43dc-921d-baaa3d4ecf09
+Branch not found for shId: c595d170-eaf7-4dd6-8f3c-d2e98328574b
+freightUnitLineItemId: 12f75e4d-91b7-4ed0-969b-0865a45f9710
+Freight Unit : [object Object]
+Order ID: 3a74438a-2459-482b-bfec-1cdb54aeed7a
+freightUnitLineItemId: de59793f-8e87-42a4-aff0-2fd9e02f2130
+Freight Unit : [object Object]
+Order ID: f13c452b-db25-47fa-b049-606075c1b534
+freightUnitLineItemId: fd9d9ef8-23c9-4ae3-926e-f82629335891
+Freight Unit : [object Object]
+Order ID: 7f887ea6-4126-46ff-8ba0-cdedd8f1b48e
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 49e46b94-dd06-4f46-ad50-9cd884cc5213
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 349e634c-3f55-4b60-b5c5-a878d361911c
+freightUnitLineItemId: a3fbc928-887f-4c4d-b811-e4e412e333ae
+Freight Unit : [object Object]
+Order ID: 3beb21b4-24fe-4cf4-a814-ea32bfefedf4
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 45ce1ad5-df8c-4fc5-8df9-7789ec907ae5
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 1faa4793-d1a6-479e-af6b-e40fb968be71
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: e1cd0840-166a-485c-be30-68d2ba1ba654
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: cc655929-351f-4674-b0d2-1e79530f4f94
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: bafc4964-2644-4a2d-84e1-034da54d680f
+freightUnitLineItemId: 6bb7b22c-e13f-4878-907a-0748d0729f33
+Freight Unit : [object Object]
+Order ID: 22814055-dea8-48fe-999f-c3a063309713
+Branch not found for shId: 80eeb163-687c-49e8-befe-61fb3bbb1bab
+freightUnitLineItemId: null
+Freight Unit : 
+Freight Unit not found for shId: 5b24099c-6ad2-4097-8c6f-375491dd5fc2

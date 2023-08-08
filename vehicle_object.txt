@@ -1,0 +1,265 @@
+{
+    "isTrackingEnable": false,
+    "forwardingAgent": null,
+    "verificationStatus": "UnVerified",
+    "trackingMode": "MANUAL",
+    "broker": null,
+    "uuid": "ffc87ed2-4e15-4ee3-9889-2f1d8f3d8fcb",
+    "orgId": "06acac7f-5697-4fef-9a61-eef47f75367a",
+    "vehicle": {
+        "vtsDeviceId": null,
+        "kmDriven": null,
+        "secondaryDriverId": null,
+        "attachedDocs": [],
+        "customFields": [
+            {
+                "indexedValue": [
+                    "PassingCapacity_"
+                ],
+                "fieldKey": "PassingCapacity",
+                "valueType": "string",
+                "fieldType": "number",
+                "value": "",
+                "definitionId": null
+            },
+            {
+                "indexedValue": [
+                    "Line of Business_5k"
+                ],
+                "fieldKey": "Line of Business",
+                "valueType": "string",
+                "fieldType": "select",
+                "value": "5k",
+                "definitionId": "93c09ff1-c637-4a87-9d91-814d07216dc7"
+            },
+            {
+                "indexedValue": [
+                    "Fleet Type_Non Dedicated"
+                ],
+                "fieldKey": "Fleet Type",
+                "valueType": "string",
+                "fieldType": "select",
+                "value": "Non Dedicated",
+                "definitionId": "63ae845f-de79-4dd2-99d2-20b44e9ac820"
+            },
+            {
+                "indexedValue": [
+                    "UnloadenWeight_8"
+                ],
+                "fieldKey": "UnloadenWeight",
+                "valueType": "string",
+                "fieldType": "number",
+                "value": "8",
+                "definitionId": null
+            }
+        ],
+        "floorType": null,
+        "description": null,
+        "source": "FRETRON",
+        "isTrackingEnabled": false,
+        "updates": {
+            "traceID": "1fce831e-a943-42cb-bf1a-bae8452ba967",
+            "resourceId": "ffc87ed2-4e15-4ee3-9889-2f1d8f3d8fcb",
+            "updatedBy": "USER",
+            "changes": null,
+            "sourceOfInformation": null,
+            "description": "Update Custom Fields.",
+            "forwardReasons": [
+                "partner.fleet.custom.fields.updated"
+            ],
+            "userId": "1d9a79bc-9747-435e-a265-b0552a880d2d",
+            "uuid": "599254c2-023c-4cd9-8625-05f93bb348d1",
+            "revision": null,
+            "time": 1685524237151,
+            "forwardedFrom": null,
+            "resourceType": "PartnerFleet",
+            "updateType": null
+        },
+        "uuid": "ffc87ed2-4e15-4ee3-9889-2f1d8f3d8fcb",
+        "branch": null,
+        "orgId": "06acac7f-5697-4fef-9a61-eef47f75367a",
+        "vehicleLoadType": {
+            "bodyType": "Close",
+            "passingCapacityMT": 8,
+            "minLength": 0,
+            "updates": {
+                "traceID": null,
+                "resourceId": "f4cd810f-2916-46a3-bfee-304912d9ac95",
+                "updatedBy": "USER",
+                "changes": null,
+                "sourceOfInformation": null,
+                "description": "Updated Load Type , Vehicle Category.",
+                "forwardReasons": [
+                    "load.type.updated.event"
+                ],
+                "userId": "1d9a79bc-9747-435e-a265-b0552a880d2d",
+                "uuid": "e36b1d2a-358b-4d11-81e6-e2114b5d4cc8",
+                "revision": null,
+                "time": 1684328269025,
+                "forwardedFrom": null,
+                "resourceType": "LoadTypes",
+                "updateType": null
+            },
+            "vehicleCategories": [],
+            "uuid": "f4cd810f-2916-46a3-bfee-304912d9ac95",
+            "orgId": "06acac7f-5697-4fef-9a61-eef47f75367a",
+            "vehicleCategory": "Truck",
+            "includeMaxLength": false,
+            "minHeight": 0,
+            "maxHeight": -1,
+            "passingCapacityCFT": null,
+            "bodyTypes": [],
+            "partnerName": null,
+            "includeMinLength": false,
+            "partnerExternalId": null,
+            "externalId": null,
+            "chassisTypes": [],
+            "numberOfWheels": null,
+            "chassisType": "Truck",
+            "includeMinHeight": false,
+            "name": "20ft",
+            "partnerId": null,
+            "includeMaxHeight": false,
+            "dimensionString": null,
+            "maxLength": -1
+        },
+        "associatedWith": null,
+        "isDeleted": null,
+        "customerId": null,
+        "vehicleModel": "",
+        "mileageEmpty": null,
+        "mileageLoaded": null,
+        "vehicleType": "hire",
+        "groups": [],
+        "externalId": null,
+        "updateTime": 1685524237151,
+        "sharedWith": [],
+        "baseLocationId": null,
+        "vehicleMake": null,
+        "vehicleRegistrationNumber": "HR394089",
+        "chassisNumber": "",
+        "driverId": null,
+        "createTime": null,
+        "loadCapacity": 8,
+        "truckLength": null,
+        "category": "20ft",
+        "groupsExtended": []
+    },
+    "driver": {
+        "pincode": null,
+        "dlExpiryTime": null,
+        "attachedDocs": [],
+        "isEmployee": false,
+        "pfNumber": null,
+        "address": null,
+        "mobileNumbers": null,
+        "dlNumber": "",
+        "mobileNumber": "",
+        "customFields": null,
+        "externalId": null,
+        "updates": null,
+        "aadharNo": null,
+        "type": null,
+        "uuid": null,
+        "branch": null,
+        "orgId": null,
+        "vehicleRegistrationNumber": null,
+        "name": "",
+        "vehicleId": null,
+        "associatedUserId": null,
+        "status": null
+    },
+    "fleetType": "Contracted",
+    "fleetOwner": {
+        "geoFence": null,
+        "documents": [],
+        "customFields": [],
+        "isPortalEnabled": false,
+        "type": "vendor",
+        "updates": {
+            "traceID": "782dae1b-4f30-4e3d-aa44-167ae30c582c",
+            "resourceId": "c33bb877-5e59-4f6e-bd1f-113844aa6f42",
+            "updatedBy": "USER",
+            "changes": [
+                {
+                    "lastValue": null,
+                    "fieldName": "Partner",
+                    "fieldType": "String",
+                    "currentValue": "Vikesh Sharma"
+                }
+            ],
+            "sourceOfInformation": null,
+            "description": "added new partner  Vikesh Sharma.",
+            "forwardReasons": [
+                "business.partner.add.event"
+            ],
+            "userId": "1d9a79bc-9747-435e-a265-b0552a880d2d",
+            "uuid": "04ba23b8-7a13-404d-90eb-35050674f1e4",
+            "revision": null,
+            "time": 1684152304789,
+            "forwardedFrom": null,
+            "resourceType": "Business-Partner",
+            "updateType": null
+        },
+        "uuid": "c33bb877-5e59-4f6e-bd1f-113844aa6f42",
+        "orgId": "06acac7f-5697-4fef-9a61-eef47f75367a",
+        "firmType": "INDIVISUAL",
+        "gstn": null,
+        "voterId": null,
+        "verificationTicketId": null,
+        "group": {
+            "name": "lorryOwner",
+            "partnerType": "vendor",
+            "uuid": "62042c6e-d90b-4cc6-ba82-f8844831227f",
+            "orgId": "06acac7f-5697-4fef-9a61-eef47f75367a"
+        },
+        "address": "{\"pincode\":201301,\"address\":\"Noida\",\"city\":\"Noida\",\"state\":\"\"}",
+        "verificationStatus": "unverified",
+        "externalId": null,
+        "panNumber": null,
+        "aadharNo": null,
+        "parentId": null,
+        "places": [
+            {
+                "hubId": null,
+                "boundary": null,
+                "address": ",Noida,Dadri,Gautam Buddha Nagar,Uttar Pradesh,201301,India,in",
+                "accessibility": "public",
+                "addedBy": "06acac7f-5697-4fef-9a61-eef47f75367a",
+                "center": {
+                    "latitude": 28.5707841,
+                    "longitude": 77.3271074
+                },
+                "suggestedRadius": 500,
+                "isOwned": false,
+                "centerCoordinates": [
+                    77.3271074,
+                    28.5707841
+                ],
+                "placeId": "2de5f85b-5f23-417f-8de4-fdd6a4e9e271",
+                "geoJsonBoundry": null,
+                "externalId": null,
+                "source": "FRETRON",
+                "places": null,
+                "viewport": null,
+                "district": null,
+                "name": "Noida",
+                "state": null,
+                "category": "Fleet Office",
+                "subDistrict": null,
+                "controllingBranchId": null
+            }
+        ],
+        "route": null,
+        "name": "Vikesh Sharma",
+        "location": null,
+        "fretronId": null,
+        "contacts": null,
+        "status": "ACTIVE"
+    },
+    "trainInfo": null,
+    "lbsNumber": null,
+    "secondaryDriver": null,
+    "device": null,
+    "status": "ACTIVE"
+}

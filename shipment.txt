@@ -1,0 +1,2659 @@
+{
+    "creationTime": 1688021148507,
+    "customFields": [
+        {
+            "indexedValue": [
+                "EDD_N/A"
+            ],
+            "fieldKey": "EDD",
+            "multiple": false,
+            "description": "",
+            "remark": "",
+            "uuid": null,
+            "required": false,
+            "accessType": null,
+            "input": "string",
+            "unit": "",
+            "valueType": "string",
+            "options": [],
+            "fieldType": "text",
+            "value": "N/A",
+            "isRemark": false
+        },
+        {
+            "indexedValue": [
+                "Pickup Date_6/29/2023, 12:15:48 PM"
+            ],
+            "fieldKey": "Pickup Date",
+            "multiple": false,
+            "description": "",
+            "remark": "",
+            "uuid": null,
+            "required": false,
+            "accessType": null,
+            "input": "string",
+            "unit": "",
+            "valueType": "string",
+            "options": [],
+            "fieldType": "text",
+            "value": "6/29/2023, 12:15:48 PM",
+            "isRemark": false
+        },
+        {
+            "indexedValue": [
+                "Shipment Date_6/29/2023, 12:15:22 PM"
+            ],
+            "fieldKey": "Shipment Date",
+            "multiple": false,
+            "description": "",
+            "remark": "",
+            "uuid": null,
+            "required": false,
+            "accessType": null,
+            "input": "string",
+            "unit": "",
+            "valueType": "string",
+            "options": [],
+            "fieldType": "text",
+            "value": "6/29/2023, 12:15:22 PM",
+            "isRemark": false
+        },
+        {
+            "indexedValue": [
+                "Device Submitted_NO"
+            ],
+            "fieldKey": "Device Submitted",
+            "multiple": false,
+            "description": "Device Submitted?",
+            "remark": "",
+            "uuid": "f23b53b4-6431-4239-80af-6a16a6a5629f",
+            "required": false,
+            "accessType": null,
+            "input": "",
+            "unit": "",
+            "valueType": "string",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "fieldType": "yes-no",
+            "value": "NO",
+            "isRemark": false
+        },
+        {
+            "indexedValue": [
+                "Device Submit Date_null"
+            ],
+            "fieldKey": "Device Submit Date",
+            "multiple": true,
+            "description": "Device Submit Date",
+            "remark": "",
+            "uuid": "378509c4-97f3-4c3f-a312-4f03ece7e1d5",
+            "required": false,
+            "accessType": null,
+            "input": "date",
+            "unit": "",
+            "valueType": "string",
+            "options": [],
+            "fieldType": "dateTime",
+            "value": null,
+            "isRemark": false
+        }
+    ],
+    "transportationMode": "ByRoad",
+    "freightUnitLineItemId": null,
+    "lastSyncUpTime": 1688021298826,
+    "updates": {
+        "traceID": "f14e2837-f025-4ab1-b0b3-c62bcab81bc8",
+        "resourceId": "e73a56a9-445d-4312-ab89-1a3b2a45e9ec",
+        "updatedBy": "USER",
+        "changes": null,
+        "sourceOfInformation": null,
+        "description": "marked shipment as completed at 12:18 PM | 29-06-23",
+        "forwardReasons": [
+            "shipment.marked.completed"
+        ],
+        "userId": "1d9a79bc-9747-435e-a265-b0552a880d2d",
+        "uuid": "efd70d62-9d31-47fc-8740-cbb651188348",
+        "revision": 13,
+        "time": 1688021298833,
+        "forwardedFrom": null,
+        "resourceType": "ShipmentObject",
+        "updateType": null
+    },
+    "isActive": false,
+    "uuid": "e73a56a9-445d-4312-ab89-1a3b2a45e9ec",
+    "issues": null,
+    "branch": null,
+    "orgId": "495b8728-c761-4fa7-83fe-db75a7d63221",
+    "shipmentType": "DirectLeg",
+    "completionTime": 1688021294000,
+    "routeId": null,
+    "shipmentTrackingStatus": null,
+    "lastForwardTime": 1688021298867,
+    "runningStatus": null,
+    "delayTrackingStatus": null,
+    "delayReasonLastUpdateTime": null,
+    "links": null,
+    "shipmentDate": 1688021122146,
+    "delayReason": null,
+    "shipmentNumber": "FRETSH000000030",
+    "originalEdd": null,
+    "edd": null,
+    "delayReasonUpdateExpiryTime": null,
+    "externalShipmentId": null,
+    "fleetInfo": {
+        "isTrackingEnable": null,
+        "forwardingAgent": {
+            "geoFence": null,
+            "documents": null,
+            "customFields": [
+                {
+                    "indexedValue": null,
+                    "fieldKey": "bidRemainingV2",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": null,
+                    "unit": null,
+                    "valueType": null,
+                    "options": null,
+                    "fieldType": null,
+                    "value": "5",
+                    "isRemark": false
+                },
+                {
+                    "indexedValue": null,
+                    "fieldKey": "bidSubmittedV2",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": null,
+                    "unit": null,
+                    "valueType": null,
+                    "options": null,
+                    "fieldType": null,
+                    "value": "0",
+                    "isRemark": false
+                },
+                {
+                    "indexedValue": null,
+                    "fieldKey": "minRemainingTimeV2",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": null,
+                    "unit": null,
+                    "valueType": null,
+                    "options": null,
+                    "fieldType": null,
+                    "value": "1646288095631",
+                    "isRemark": false
+                },
+                {
+                    "indexedValue": null,
+                    "fieldKey": "totalAuctionsV2",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": null,
+                    "unit": null,
+                    "valueType": null,
+                    "options": null,
+                    "fieldType": null,
+                    "value": "5",
+                    "isRemark": false
+                },
+                {
+                    "indexedValue": null,
+                    "fieldKey": "criticalOrderV2",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": null,
+                    "unit": null,
+                    "valueType": null,
+                    "options": null,
+                    "fieldType": null,
+                    "value": "0",
+                    "isRemark": false
+                },
+                {
+                    "indexedValue": null,
+                    "fieldKey": "live-auctions",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": null,
+                    "unit": null,
+                    "valueType": null,
+                    "options": null,
+                    "fieldType": null,
+                    "value": "0",
+                    "isRemark": false
+                },
+                {
+                    "indexedValue": null,
+                    "fieldKey": "live-bids-pending",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": null,
+                    "unit": null,
+                    "valueType": null,
+                    "options": null,
+                    "fieldType": null,
+                    "value": "0",
+                    "isRemark": false
+                },
+                {
+                    "indexedValue": null,
+                    "fieldKey": "totalPlacementPendingV2",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": null,
+                    "unit": null,
+                    "valueType": null,
+                    "options": null,
+                    "fieldType": null,
+                    "value": "0",
+                    "isRemark": false
+                }
+            ],
+            "isPortalEnabled": false,
+            "type": "vendor",
+            "updates": null,
+            "uuid": "dac3872d-f585-4f04-8213-193df1078836",
+            "orgId": null,
+            "firmType": null,
+            "gstn": null,
+            "voterId": null,
+            "verificationTicketId": null,
+            "group": {
+                "name": "branch",
+                "partnerType": null,
+                "uuid": null,
+                "orgId": null
+            },
+            "address": "{\"pincode\":\"\",\"address\":\",Dwarka,Dwarka Tehsil,South West Delhi,Delhi,India,in\",\"city\":\"\",\"state\":\"\"}",
+            "verificationStatus": null,
+            "externalId": null,
+            "panNumber": null,
+            "aadharNo": null,
+            "parentId": null,
+            "places": null,
+            "route": null,
+            "name": "AAA INTERNATIONAL",
+            "location": null,
+            "fretronId": null,
+            "contacts": null,
+            "status": "ACTIVE"
+        },
+        "verificationStatus": null,
+        "trackingMode": "MANUAL",
+        "broker": null,
+        "uuid": null,
+        "orgId": null,
+        "vehicle": {
+            "vtsDeviceId": null,
+            "kmDriven": null,
+            "secondaryDriverId": null,
+            "attachedDocs": [],
+            "customFields": [],
+            "floorType": null,
+            "description": null,
+            "source": "FRETRON",
+            "isTrackingEnabled": false,
+            "updates": null,
+            "uuid": null,
+            "branch": null,
+            "orgId": null,
+            "vehicleLoadType": null,
+            "associatedWith": null,
+            "isDeleted": null,
+            "customerId": null,
+            "vehicleModel": null,
+            "mileageEmpty": null,
+            "mileageLoaded": null,
+            "vehicleType": null,
+            "groups": [],
+            "externalId": null,
+            "updateTime": null,
+            "sharedWith": [],
+            "baseLocationId": null,
+            "vehicleMake": null,
+            "vehicleRegistrationNumber": "Test_783",
+            "chassisNumber": null,
+            "driverId": null,
+            "createTime": null,
+            "loadCapacity": null,
+            "truckLength": null,
+            "category": null,
+            "groupsExtended": null
+        },
+        "driver": {
+            "pincode": null,
+            "dlExpiryTime": null,
+            "attachedDocs": null,
+            "isEmployee": false,
+            "pfNumber": null,
+            "address": null,
+            "mobileNumbers": null,
+            "dlNumber": null,
+            "mobileNumber": null,
+            "customFields": null,
+            "externalId": null,
+            "updates": null,
+            "aadharNo": null,
+            "type": null,
+            "uuid": null,
+            "branch": null,
+            "orgId": null,
+            "vehicleRegistrationNumber": null,
+            "name": null,
+            "vehicleId": null,
+            "associatedUserId": null,
+            "status": null
+        },
+        "fleetType": "Market",
+        "fleetOwner": {
+            "geoFence": null,
+            "documents": null,
+            "customFields": [
+                {
+                    "indexedValue": null,
+                    "fieldKey": "bidRemainingV2",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": null,
+                    "unit": null,
+                    "valueType": null,
+                    "options": null,
+                    "fieldType": null,
+                    "value": "5",
+                    "isRemark": false
+                },
+                {
+                    "indexedValue": null,
+                    "fieldKey": "bidSubmittedV2",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": null,
+                    "unit": null,
+                    "valueType": null,
+                    "options": null,
+                    "fieldType": null,
+                    "value": "0",
+                    "isRemark": false
+                },
+                {
+                    "indexedValue": null,
+                    "fieldKey": "minRemainingTimeV2",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": null,
+                    "unit": null,
+                    "valueType": null,
+                    "options": null,
+                    "fieldType": null,
+                    "value": "1646288095631",
+                    "isRemark": false
+                },
+                {
+                    "indexedValue": null,
+                    "fieldKey": "totalAuctionsV2",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": null,
+                    "unit": null,
+                    "valueType": null,
+                    "options": null,
+                    "fieldType": null,
+                    "value": "5",
+                    "isRemark": false
+                },
+                {
+                    "indexedValue": null,
+                    "fieldKey": "criticalOrderV2",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": null,
+                    "unit": null,
+                    "valueType": null,
+                    "options": null,
+                    "fieldType": null,
+                    "value": "0",
+                    "isRemark": false
+                },
+                {
+                    "indexedValue": null,
+                    "fieldKey": "live-auctions",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": null,
+                    "unit": null,
+                    "valueType": null,
+                    "options": null,
+                    "fieldType": null,
+                    "value": "0",
+                    "isRemark": false
+                },
+                {
+                    "indexedValue": null,
+                    "fieldKey": "live-bids-pending",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": null,
+                    "unit": null,
+                    "valueType": null,
+                    "options": null,
+                    "fieldType": null,
+                    "value": "0",
+                    "isRemark": false
+                },
+                {
+                    "indexedValue": null,
+                    "fieldKey": "totalPlacementPendingV2",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": null,
+                    "unit": null,
+                    "valueType": null,
+                    "options": null,
+                    "fieldType": null,
+                    "value": "0",
+                    "isRemark": false
+                }
+            ],
+            "isPortalEnabled": false,
+            "type": "vendor",
+            "updates": null,
+            "uuid": "dac3872d-f585-4f04-8213-193df1078836",
+            "orgId": null,
+            "firmType": null,
+            "gstn": null,
+            "voterId": null,
+            "verificationTicketId": null,
+            "group": {
+                "name": "branch",
+                "partnerType": null,
+                "uuid": null,
+                "orgId": null
+            },
+            "address": "{\"pincode\":\"\",\"address\":\",Dwarka,Dwarka Tehsil,South West Delhi,Delhi,India,in\",\"city\":\"\",\"state\":\"\"}",
+            "verificationStatus": null,
+            "externalId": null,
+            "panNumber": null,
+            "aadharNo": null,
+            "parentId": null,
+            "places": null,
+            "route": null,
+            "name": "AAA INTERNATIONAL",
+            "location": null,
+            "fretronId": null,
+            "contacts": null,
+            "status": "ACTIVE"
+        },
+        "trainInfo": null,
+        "lbsNumber": null,
+        "secondaryDriver": null,
+        "device": null,
+        "status": null
+    },
+    "syncUpDueTime": null,
+    "billingStatus": "UnSettled",
+    "currentLocation": null,
+    "alerts": [],
+    "equipments": null,
+    "tripType": "Shipment",
+    "lastDelayCalculationTime": null,
+    "delayReasonUpdateDueTime": null,
+    "locationTrackingStatus": null,
+    "poLineItemId": null,
+    "consignments": [],
+    "customContacts": null,
+    "shipmentStages": [
+        {
+            "departureTime": 1688021279000,
+            "gateInTime": null,
+            "actualActivityStartTime": 1688021279000,
+            "actualActivityEndTime": 1688021279000,
+            "uuid": "0cbdc733-7f40-44ae-9f43-1a459ecde92c",
+            "consignmentDelivered": null,
+            "resourceDropOff": null,
+            "resourcePickup": null,
+            "eta": null,
+            "stageName": null,
+            "hub": {
+                "hubId": null,
+                "boundary": [
+                    [
+                        [
+                            88.34789752176592,
+                            22.65243638779603
+                        ],
+                        [
+                            88.34789567679424,
+                            22.652450538712767
+                        ],
+                        [
+                            88.34791697783123,
+                            22.652445048466554
+                        ],
+                        [
+                            88.34791639079478,
+                            22.652444971139165
+                        ],
+                        [
+                            88.34789752176592,
+                            22.65243638779603
+                        ]
+                    ]
+                ],
+                "address": null,
+                "accessibility": "private",
+                "addedBy": "495b8728-c761-4fa7-83fe-db75a7d63221",
+                "center": {
+                    "latitude": 22.652442666782107,
+                    "longitude": 88.34790481779042
+                },
+                "suggestedRadius": 0,
+                "isOwned": null,
+                "centerCoordinates": [
+                    88.34790481779042,
+                    22.652442666782107
+                ],
+                "placeId": "1af6e903-7642-4d68-9ea2-22268f210b56",
+                "geoJsonBoundry": null,
+                "externalId": null,
+                "source": "GOOGLE",
+                "places": [
+                    {
+                        "hubId": "1af6e903-7642-4d68-9ea2-22268f210b56",
+                        "boundary": null,
+                        "address": ",Bally Ghat,Grand Trunk Road,Bally Jagachha,Howrah,West Bengal,712258,India,in",
+                        "accessibility": "public",
+                        "addedBy": "495b8728-c761-4fa7-83fe-db75a7d63221",
+                        "center": {
+                            "latitude": 22.652442,
+                            "longitude": 88.3479045
+                        },
+                        "suggestedRadius": 0,
+                        "isOwned": false,
+                        "centerCoordinates": [
+                            88.3479045,
+                            22.652442
+                        ],
+                        "placeId": "5f2b852b-5447-4b78-b1fa-7de1e10f3054",
+                        "geoJsonBoundry": {
+                            "coordinates": [
+                                [
+                                    [
+                                        88.34789324906794,
+                                        22.652446480767384
+                                    ],
+                                    [
+                                        88.34791043703918,
+                                        22.65244756345643
+                                    ],
+                                    [
+                                        88.3479052387259,
+                                        22.652436504560757
+                                    ],
+                                    [
+                                        88.34789324906794,
+                                        22.652446480767384
+                                    ]
+                                ]
+                            ],
+                            "type": "Polygon"
+                        },
+                        "externalId": null,
+                        "source": "FRETRON",
+                        "places": null,
+                        "viewport": null,
+                        "district": null,
+                        "name": "gt road",
+                        "state": null,
+                        "category": "Unloading Point",
+                        "subDistrict": null,
+                        "controllingBranchId": null
+                    }
+                ],
+                "viewport": null,
+                "district": "bally",
+                "name": "Bally",
+                "state": "west bengal",
+                "category": "Hub",
+                "subDistrict": null,
+                "controllingBranchId": null
+            },
+            "arrivalTime": 1688021261000,
+            "expectedActivityStartTime": null,
+            "secondaryStatus": "WaitingForFinalize",
+            "consignmentPickUps": null,
+            "tripPoint": {
+                "outOfTrackSince": null,
+                "creationTime": null,
+                "purpose": "Pickup",
+                "plannedArrival": null,
+                "currentGpsState": null,
+                "updates": null,
+                "uuid": "0cbdc733-7f40-44ae-9f43-1a459ecde92c",
+                "sequenceId": null,
+                "isDisconnected": false,
+                "isOutOfTrack": false,
+                "routeDeviationMinimumDistanceConstraint": null,
+                "eta": null,
+                "routeId": null,
+                "expectedActivityStartTime": null,
+                "actualDeparture": 1688021279000,
+                "vehicleId": null,
+                "place": null,
+                "remainingDistance": null,
+                "actualActivityStartTime": null,
+                "forShipmentStages": [
+                    "0cbdc733-7f40-44ae-9f43-1a459ecde92c"
+                ],
+                "actualActivityEndTime": null,
+                "actualArrival": 1688021261000,
+                "purposedDistance": null,
+                "plannedDeparture": null,
+                "currentLocation": null,
+                "isAutoCompleted": false,
+                "coveredDistance": null,
+                "hub": {
+                    "hubId": null,
+                    "boundary": [
+                        [
+                            [
+                                88.34789752176592,
+                                22.65243638779603
+                            ],
+                            [
+                                88.34789567679424,
+                                22.652450538712767
+                            ],
+                            [
+                                88.34791697783123,
+                                22.652445048466554
+                            ],
+                            [
+                                88.34791639079478,
+                                22.652444971139165
+                            ],
+                            [
+                                88.34789752176592,
+                                22.65243638779603
+                            ]
+                        ]
+                    ],
+                    "address": null,
+                    "accessibility": "private",
+                    "addedBy": "495b8728-c761-4fa7-83fe-db75a7d63221",
+                    "center": {
+                        "latitude": 22.652442666782107,
+                        "longitude": 88.34790481779042
+                    },
+                    "suggestedRadius": 0,
+                    "isOwned": null,
+                    "centerCoordinates": [
+                        88.34790481779042,
+                        22.652442666782107
+                    ],
+                    "placeId": "1af6e903-7642-4d68-9ea2-22268f210b56",
+                    "geoJsonBoundry": null,
+                    "externalId": null,
+                    "source": "GOOGLE",
+                    "places": [
+                        {
+                            "hubId": "1af6e903-7642-4d68-9ea2-22268f210b56",
+                            "boundary": null,
+                            "address": ",Bally Ghat,Grand Trunk Road,Bally Jagachha,Howrah,West Bengal,712258,India,in",
+                            "accessibility": "public",
+                            "addedBy": "495b8728-c761-4fa7-83fe-db75a7d63221",
+                            "center": {
+                                "latitude": 22.652442,
+                                "longitude": 88.3479045
+                            },
+                            "suggestedRadius": 0,
+                            "isOwned": false,
+                            "centerCoordinates": [
+                                88.3479045,
+                                22.652442
+                            ],
+                            "placeId": "5f2b852b-5447-4b78-b1fa-7de1e10f3054",
+                            "geoJsonBoundry": {
+                                "coordinates": [
+                                    [
+                                        [
+                                            88.34789324906794,
+                                            22.652446480767384
+                                        ],
+                                        [
+                                            88.34791043703918,
+                                            22.65244756345643
+                                        ],
+                                        [
+                                            88.3479052387259,
+                                            22.652436504560757
+                                        ],
+                                        [
+                                            88.34789324906794,
+                                            22.652446480767384
+                                        ]
+                                    ]
+                                ],
+                                "type": "Polygon"
+                            },
+                            "externalId": null,
+                            "source": "FRETRON",
+                            "places": null,
+                            "viewport": null,
+                            "district": null,
+                            "name": "gt road",
+                            "state": null,
+                            "category": "Unloading Point",
+                            "subDistrict": null,
+                            "controllingBranchId": null
+                        }
+                    ],
+                    "viewport": null,
+                    "district": "bally",
+                    "name": "Bally",
+                    "state": "west bengal",
+                    "category": "Hub",
+                    "subDistrict": null,
+                    "controllingBranchId": null
+                },
+                "imei": null,
+                "assosiatedShipmentsId": [
+                    "e73a56a9-445d-4312-ab89-1a3b2a45e9ec"
+                ],
+                "status": "COMPLETED"
+            },
+            "place": null,
+            "controllingBranchId": null,
+            "gateOutTime": null,
+            "status": "COMPLETED"
+        },
+        {
+            "departureTime": 1688021290000,
+            "gateInTime": null,
+            "actualActivityStartTime": 1688021290000,
+            "actualActivityEndTime": 1688021290000,
+            "uuid": "b99218bc-264e-47cd-9a6c-e1592e28cfcd",
+            "consignmentDelivered": null,
+            "resourceDropOff": null,
+            "resourcePickup": null,
+            "eta": null,
+            "stageName": null,
+            "hub": {
+                "hubId": null,
+                "boundary": [
+                    [
+                        [
+                            77.73534731905687,
+                            28.41649831088269
+                        ],
+                        [
+                            77.73533641722544,
+                            28.416488286024197
+                        ],
+                        [
+                            77.73535369516688,
+                            28.416488137000098
+                        ],
+                        [
+                            77.73535729803535,
+                            28.416498235131545
+                        ],
+                        [
+                            77.73534731905687,
+                            28.41649831088269
+                        ]
+                    ]
+                ],
+                "address": null,
+                "accessibility": "private",
+                "addedBy": "495b8728-c761-4fa7-83fe-db75a7d63221",
+                "center": {
+                    "latitude": 28.416494255984247,
+                    "longitude": 77.73534840970828
+                },
+                "suggestedRadius": 0,
+                "isOwned": null,
+                "centerCoordinates": [
+                    77.73534840970828,
+                    28.416494255984247
+                ],
+                "placeId": "9cfd5d6f-6b1a-4b9a-83ea-81808a0b09eb",
+                "geoJsonBoundry": null,
+                "externalId": null,
+                "source": "GOOGLE",
+                "places": [
+                    {
+                        "hubId": null,
+                        "boundary": null,
+                        "address": ",Sikandrabad,Bulandshahr,Uttar Pradesh,203205,India,in",
+                        "accessibility": null,
+                        "addedBy": null,
+                        "center": {
+                            "latitude": 28.416503499999997,
+                            "longitude": 77.73534746014593
+                        },
+                        "suggestedRadius": 23769.171381492466,
+                        "isOwned": null,
+                        "centerCoordinates": [
+                            77.73534746014593,
+                            28.416503499999997
+                        ],
+                        "placeId": "R10002300",
+                        "geoJsonBoundry": {
+                            "coordinates": [
+                                [
+                                    [
+                                        77.6211547,
+                                        28.4763117
+                                    ],
+                                    [
+                                        77.6335143,
+                                        28.4709549
+                                    ],
+                                    [
+                                        77.6463031,
+                                        28.4673332
+                                    ],
+                                    [
+                                        77.6508307,
+                                        28.4616363
+                                    ],
+                                    [
+                                        77.6431489,
+                                        28.4486758
+                                    ],
+                                    [
+                                        77.6389646,
+                                        28.4386572
+                                    ],
+                                    [
+                                        77.6305961,
+                                        28.4340155
+                                    ],
+                                    [
+                                        77.6292658,
+                                        28.4314681
+                                    ],
+                                    [
+                                        77.6329779,
+                                        28.426845
+                                    ],
+                                    [
+                                        77.6432347,
+                                        28.4276942
+                                    ],
+                                    [
+                                        77.6458096,
+                                        28.4302227
+                                    ],
+                                    [
+                                        77.652955,
+                                        28.427713
+                                    ],
+                                    [
+                                        77.6574611,
+                                        28.4257883
+                                    ],
+                                    [
+                                        77.6596927,
+                                        28.4301284
+                                    ],
+                                    [
+                                        77.656002,
+                                        28.4368836
+                                    ],
+                                    [
+                                        77.658534,
+                                        28.4403176
+                                    ],
+                                    [
+                                        77.6633835,
+                                        28.4414025
+                                    ],
+                                    [
+                                        77.6653254,
+                                        28.4434496
+                                    ],
+                                    [
+                                        77.6655185,
+                                        28.4442043
+                                    ],
+                                    [
+                                        77.6667523,
+                                        28.4449402
+                                    ],
+                                    [
+                                        77.6673102,
+                                        28.4463646
+                                    ],
+                                    [
+                                        77.667675,
+                                        28.4477985
+                                    ],
+                                    [
+                                        77.6672566,
+                                        28.4483739
+                                    ],
+                                    [
+                                        77.666645,
+                                        28.4484306
+                                    ],
+                                    [
+                                        77.6626968,
+                                        28.4509115
+                                    ],
+                                    [
+                                        77.6618064,
+                                        28.4502229
+                                    ],
+                                    [
+                                        77.661699,
+                                        28.4509869
+                                    ],
+                                    [
+                                        77.6613557,
+                                        28.4512511
+                                    ],
+                                    [
+                                        77.6636194,
+                                        28.4529018
+                                    ],
+                                    [
+                                        77.6663661,
+                                        28.4510718
+                                    ],
+                                    [
+                                        77.6698851,
+                                        28.4496757
+                                    ],
+                                    [
+                                        77.6732111,
+                                        28.449223
+                                    ],
+                                    [
+                                        77.6763868,
+                                        28.4454873
+                                    ],
+                                    [
+                                        77.6748204,
+                                        28.4447892
+                                    ],
+                                    [
+                                        77.678039,
+                                        28.442695
+                                    ],
+                                    [
+                                        77.6758504,
+                                        28.4408648
+                                    ],
+                                    [
+                                        77.6731467,
+                                        28.4373176
+                                    ],
+                                    [
+                                        77.6694989,
+                                        28.436393
+                                    ],
+                                    [
+                                        77.6651215,
+                                        28.4335438
+                                    ],
+                                    [
+                                        77.6609801,
+                                        28.4290717
+                                    ],
+                                    [
+                                        77.6677608,
+                                        28.423939
+                                    ],
+                                    [
+                                        77.6730179,
+                                        28.4272224
+                                    ],
+                                    [
+                                        77.6806783,
+                                        28.4225991
+                                    ],
+                                    [
+                                        77.6830386,
+                                        28.4181265
+                                    ],
+                                    [
+                                        77.6821803,
+                                        28.4132197
+                                    ],
+                                    [
+                                        77.6693916,
+                                        28.405255
+                                    ],
+                                    [
+                                        77.6673745,
+                                        28.3985734
+                                    ],
+                                    [
+                                        77.6688766,
+                                        28.3939677
+                                    ],
+                                    [
+                                        77.6723956,
+                                        28.3893617
+                                    ],
+                                    [
+                                        77.6703357,
+                                        28.3843026
+                                    ],
+                                    [
+                                        77.7008914,
+                                        28.3611179
+                                    ],
+                                    [
+                                        77.715311,
+                                        28.3548488
+                                    ],
+                                    [
+                                        77.7146242,
+                                        28.3454823
+                                    ],
+                                    [
+                                        77.718315,
+                                        28.328409
+                                    ],
+                                    [
+                                        77.7272414,
+                                        28.3311288
+                                    ],
+                                    [
+                                        77.7322196,
+                                        28.3265957
+                                    ],
+                                    [
+                                        77.731018,
+                                        28.3219113
+                                    ],
+                                    [
+                                        77.736082,
+                                        28.3154888
+                                    ],
+                                    [
+                                        77.7227782,
+                                        28.3055899
+                                    ],
+                                    [
+                                        77.7258681,
+                                        28.299771
+                                    ],
+                                    [
+                                        77.7237224,
+                                        28.2945564
+                                    ],
+                                    [
+                                        77.713766,
+                                        28.2898894
+                                    ],
+                                    [
+                                        77.7159976,
+                                        28.2857892
+                                    ],
+                                    [
+                                        77.7171134,
+                                        28.2803471
+                                    ],
+                                    [
+                                        77.720375,
+                                        28.2792134
+                                    ],
+                                    [
+                                        77.7317905,
+                                        28.2796669
+                                    ],
+                                    [
+                                        77.742691,
+                                        28.2804227
+                                    ],
+                                    [
+                                        77.7474975,
+                                        28.2797425
+                                    ],
+                                    [
+                                        77.7520465,
+                                        28.2783063
+                                    ],
+                                    [
+                                        77.7580546,
+                                        28.2745269
+                                    ],
+                                    [
+                                        77.7620887,
+                                        28.2747536
+                                    ],
+                                    [
+                                        77.7651786,
+                                        28.278911
+                                    ],
+                                    [
+                                        77.7691268,
+                                        28.2850334
+                                    ],
+                                    [
+                                        77.7729892,
+                                        28.288888
+                                    ],
+                                    [
+                                        77.7729892,
+                                        28.2922135
+                                    ],
+                                    [
+                                        77.7728175,
+                                        28.2965969
+                                    ],
+                                    [
+                                        77.7723884,
+                                        28.2998465
+                                    ],
+                                    [
+                                        77.772045,
+                                        28.3052876
+                                    ],
+                                    [
+                                        77.7783965,
+                                        28.3040029
+                                    ],
+                                    [
+                                        77.7888679,
+                                        28.2990908
+                                    ],
+                                    [
+                                        77.7906703,
+                                        28.2986374
+                                    ],
+                                    [
+                                        77.7985667,
+                                        28.3004511
+                                    ],
+                                    [
+                                        77.8031158,
+                                        28.3024915
+                                    ],
+                                    [
+                                        77.806549,
+                                        28.3056654
+                                    ],
+                                    [
+                                        77.810583,
+                                        28.3105772
+                                    ],
+                                    [
+                                        77.8123855,
+                                        28.3143554
+                                    ],
+                                    [
+                                        77.8153037,
+                                        28.3178312
+                                    ],
+                                    [
+                                        77.8198527,
+                                        28.3186623
+                                    ],
+                                    [
+                                        77.822771,
+                                        28.3198712
+                                    ],
+                                    [
+                                        77.8233718,
+                                        28.3218357
+                                    ],
+                                    [
+                                        77.8214835,
+                                        28.3252357
+                                    ],
+                                    [
+                                        77.8203677,
+                                        28.3278801
+                                    ],
+                                    [
+                                        77.8219985,
+                                        28.331431
+                                    ],
+                                    [
+                                        77.8262042,
+                                        28.3346796
+                                    ],
+                                    [
+                                        77.8185653,
+                                        28.3446513
+                                    ],
+                                    [
+                                        77.8169345,
+                                        28.3503922
+                                    ],
+                                    [
+                                        77.8159904,
+                                        28.3537158
+                                    ],
+                                    [
+                                        77.812128,
+                                        28.3566616
+                                    ],
+                                    [
+                                        77.8107547,
+                                        28.3574924
+                                    ],
+                                    [
+                                        77.8079223,
+                                        28.3555286
+                                    ],
+                                    [
+                                        77.8061198,
+                                        28.3542445
+                                    ],
+                                    [
+                                        77.8028583,
+                                        28.355302
+                                    ],
+                                    [
+                                        77.7984809,
+                                        28.3567371
+                                    ],
+                                    [
+                                        77.7958202,
+                                        28.358852
+                                    ],
+                                    [
+                                        77.7923011,
+                                        28.3620242
+                                    ],
+                                    [
+                                        77.7878379,
+                                        28.3624773
+                                    ],
+                                    [
+                                        77.7849197,
+                                        28.3611178
+                                    ],
+                                    [
+                                        77.7826022,
+                                        28.3595317
+                                    ],
+                                    [
+                                        77.7789973,
+                                        28.3593807
+                                    ],
+                                    [
+                                        77.7756499,
+                                        28.3630816
+                                    ],
+                                    [
+                                        77.7714442,
+                                        28.3678397
+                                    ],
+                                    [
+                                        77.7684402,
+                                        28.3724465
+                                    ],
+                                    [
+                                        77.7654361,
+                                        28.3776573
+                                    ],
+                                    [
+                                        77.7618312,
+                                        28.3781104
+                                    ],
+                                    [
+                                        77.7586555,
+                                        28.3777328
+                                    ],
+                                    [
+                                        77.7611446,
+                                        28.3831699
+                                    ],
+                                    [
+                                        77.7606296,
+                                        28.3864169
+                                    ],
+                                    [
+                                        77.7590846,
+                                        28.3903433
+                                    ],
+                                    [
+                                        77.7608012,
+                                        28.391929
+                                    ],
+                                    [
+                                        77.7648353,
+                                        28.3949492
+                                    ],
+                                    [
+                                        77.7655219,
+                                        28.3967613
+                                    ],
+                                    [
+                                        77.767496,
+                                        28.3990264
+                                    ],
+                                    [
+                                        77.7712726,
+                                        28.3999324
+                                    ],
+                                    [
+                                        77.7765082,
+                                        28.3984224
+                                    ],
+                                    [
+                                        77.7812289,
+                                        28.3987999
+                                    ],
+                                    [
+                                        77.7841472,
+                                        28.3995549
+                                    ],
+                                    [
+                                        77.7862071,
+                                        28.4019709
+                                    ],
+                                    [
+                                        77.7873229,
+                                        28.4038584
+                                    ],
+                                    [
+                                        77.788782,
+                                        28.4092186
+                                    ],
+                                    [
+                                        77.7880096,
+                                        28.4148805
+                                    ],
+                                    [
+                                        77.7875804,
+                                        28.4249202
+                                    ],
+                                    [
+                                        77.790327,
+                                        28.4331476
+                                    ],
+                                    [
+                                        77.7940177,
+                                        28.4387327
+                                    ],
+                                    [
+                                        77.7972793,
+                                        28.4427328
+                                    ],
+                                    [
+                                        77.8063773,
+                                        28.4460534
+                                    ],
+                                    [
+                                        77.806034,
+                                        28.4501286
+                                    ],
+                                    [
+                                        77.8028583,
+                                        28.4518643
+                                    ],
+                                    [
+                                        77.8043174,
+                                        28.4564675
+                                    ],
+                                    [
+                                        77.8083514,
+                                        28.4580521
+                                    ],
+                                    [
+                                        77.8129005,
+                                        28.4615987
+                                    ],
+                                    [
+                                        77.8129005,
+                                        28.4665032
+                                    ],
+                                    [
+                                        77.8079223,
+                                        28.4655978
+                                    ],
+                                    [
+                                        77.8011417,
+                                        28.4640887
+                                    ],
+                                    [
+                                        77.7947902,
+                                        28.4652205
+                                    ],
+                                    [
+                                        77.7894687,
+                                        28.4680123
+                                    ],
+                                    [
+                                        77.7883529,
+                                        28.4711813
+                                    ],
+                                    [
+                                        77.7817439,
+                                        28.4783488
+                                    ],
+                                    [
+                                        77.7871513,
+                                        28.4791787
+                                    ],
+                                    [
+                                        77.7860355,
+                                        28.484007
+                                    ],
+                                    [
+                                        77.785778,
+                                        28.4899667
+                                    ],
+                                    [
+                                        77.7875804,
+                                        28.4933612
+                                    ],
+                                    [
+                                        77.7856063,
+                                        28.4969066
+                                    ],
+                                    [
+                                        77.7820014,
+                                        28.4999238
+                                    ],
+                                    [
+                                        77.7822589,
+                                        28.5044495
+                                    ],
+                                    [
+                                        77.7850913,
+                                        28.5038461
+                                    ],
+                                    [
+                                        77.7895545,
+                                        28.5069385
+                                    ],
+                                    [
+                                        77.789812,
+                                        28.5139528
+                                    ],
+                                    [
+                                        77.7902412,
+                                        28.5211174
+                                    ],
+                                    [
+                                        77.7854346,
+                                        28.522324
+                                    ],
+                                    [
+                                        77.780199,
+                                        28.5208911
+                                    ],
+                                    [
+                                        77.7749633,
+                                        28.5185533
+                                    ],
+                                    [
+                                        77.772045,
+                                        28.5184779
+                                    ],
+                                    [
+                                        77.7662086,
+                                        28.5211174
+                                    ],
+                                    [
+                                        77.7601146,
+                                        28.521419
+                                    ],
+                                    [
+                                        77.7554797,
+                                        28.5191566
+                                    ],
+                                    [
+                                        77.7511024,
+                                        28.5177237
+                                    ],
+                                    [
+                                        77.7475833,
+                                        28.5181008
+                                    ],
+                                    [
+                                        77.7450084,
+                                        28.5199108
+                                    ],
+                                    [
+                                        77.7417468,
+                                        28.5254159
+                                    ],
+                                    [
+                                        77.7402877,
+                                        28.5313732
+                                    ],
+                                    [
+                                        77.7334212,
+                                        28.536727
+                                    ],
+                                    [
+                                        77.7284431,
+                                        28.5384613
+                                    ],
+                                    [
+                                        77.7222633,
+                                        28.5404217
+                                    ],
+                                    [
+                                        77.7192592,
+                                        28.5420051
+                                    ],
+                                    [
+                                        77.7172851,
+                                        28.5452472
+                                    ],
+                                    [
+                                        77.7184867,
+                                        28.5475091
+                                    ],
+                                    [
+                                        77.7196669,
+                                        28.5516369
+                                    ],
+                                    [
+                                        77.7136802,
+                                        28.5583278
+                                    ],
+                                    [
+                                        77.7067279,
+                                        28.5584032
+                                    ],
+                                    [
+                                        77.7059877,
+                                        28.5567823
+                                    ],
+                                    [
+                                        77.6996469,
+                                        28.5567352
+                                    ],
+                                    [
+                                        77.6991641,
+                                        28.5586199
+                                    ],
+                                    [
+                                        77.6923513,
+                                        28.5584032
+                                    ],
+                                    [
+                                        77.6852404,
+                                        28.5581299
+                                    ],
+                                    [
+                                        77.688446,
+                                        28.5506756
+                                    ],
+                                    [
+                                        77.6877808,
+                                        28.540516
+                                    ],
+                                    [
+                                        77.6916217,
+                                        28.5358598
+                                    ],
+                                    [
+                                        77.6861286,
+                                        28.5304306
+                                    ],
+                                    [
+                                        77.6835537,
+                                        28.5163661
+                                    ],
+                                    [
+                                        77.6841116,
+                                        28.5117656
+                                    ],
+                                    [
+                                        77.6613235,
+                                        28.5010929
+                                    ],
+                                    [
+                                        77.6532125,
+                                        28.4950585
+                                    ],
+                                    [
+                                        77.6385784,
+                                        28.492456
+                                    ],
+                                    [
+                                        77.6301026,
+                                        28.4839881
+                                    ],
+                                    [
+                                        77.6277637,
+                                        28.4803858
+                                    ],
+                                    [
+                                        77.6211547,
+                                        28.4763117
+                                    ]
+                                ]
+                            ],
+                            "type": "Polygon"
+                        },
+                        "externalId": null,
+                        "source": "GOOGLE",
+                        "places": null,
+                        "viewport": {
+                            "southwest": {
+                                "latitude": 28.5586199,
+                                "longitude": 77.8262042
+                            },
+                            "northeast": {
+                                "latitude": 28.2745269,
+                                "longitude": 77.6211547
+                            }
+                        },
+                        "district": null,
+                        "name": "Sikandrabad",
+                        "state": null,
+                        "category": null,
+                        "subDistrict": null,
+                        "controllingBranchId": null
+                    }
+                ],
+                "viewport": null,
+                "district": null,
+                "name": "SIKANDRABAD",
+                "state": null,
+                "category": "Hub",
+                "subDistrict": null,
+                "controllingBranchId": null
+            },
+            "arrivalTime": 1688021284000,
+            "expectedActivityStartTime": null,
+            "secondaryStatus": null,
+            "consignmentPickUps": null,
+            "tripPoint": {
+                "outOfTrackSince": null,
+                "creationTime": null,
+                "purpose": "Delivery",
+                "plannedArrival": null,
+                "currentGpsState": null,
+                "updates": null,
+                "uuid": "b99218bc-264e-47cd-9a6c-e1592e28cfcd",
+                "sequenceId": null,
+                "isDisconnected": false,
+                "isOutOfTrack": false,
+                "routeDeviationMinimumDistanceConstraint": null,
+                "eta": null,
+                "routeId": null,
+                "expectedActivityStartTime": null,
+                "actualDeparture": null,
+                "vehicleId": null,
+                "place": null,
+                "remainingDistance": 0,
+                "actualActivityStartTime": null,
+                "forShipmentStages": [
+                    "b99218bc-264e-47cd-9a6c-e1592e28cfcd"
+                ],
+                "actualActivityEndTime": null,
+                "actualArrival": null,
+                "purposedDistance": null,
+                "plannedDeparture": null,
+                "currentLocation": null,
+                "isAutoCompleted": false,
+                "coveredDistance": null,
+                "hub": {
+                    "hubId": null,
+                    "boundary": [
+                        [
+                            [
+                                77.73534731905687,
+                                28.41649831088269
+                            ],
+                            [
+                                77.73533641722544,
+                                28.416488286024197
+                            ],
+                            [
+                                77.73535369516688,
+                                28.416488137000098
+                            ],
+                            [
+                                77.73535729803535,
+                                28.416498235131545
+                            ],
+                            [
+                                77.73534731905687,
+                                28.41649831088269
+                            ]
+                        ]
+                    ],
+                    "address": null,
+                    "accessibility": "private",
+                    "addedBy": "495b8728-c761-4fa7-83fe-db75a7d63221",
+                    "center": {
+                        "latitude": 28.416494255984247,
+                        "longitude": 77.73534840970828
+                    },
+                    "suggestedRadius": 0,
+                    "isOwned": null,
+                    "centerCoordinates": [
+                        77.73534840970828,
+                        28.416494255984247
+                    ],
+                    "placeId": "9cfd5d6f-6b1a-4b9a-83ea-81808a0b09eb",
+                    "geoJsonBoundry": null,
+                    "externalId": null,
+                    "source": "GOOGLE",
+                    "places": [
+                        {
+                            "hubId": null,
+                            "boundary": null,
+                            "address": ",Sikandrabad,Bulandshahr,Uttar Pradesh,203205,India,in",
+                            "accessibility": null,
+                            "addedBy": null,
+                            "center": {
+                                "latitude": 28.416503499999997,
+                                "longitude": 77.73534746014593
+                            },
+                            "suggestedRadius": 23769.171381492466,
+                            "isOwned": null,
+                            "centerCoordinates": [
+                                77.73534746014593,
+                                28.416503499999997
+                            ],
+                            "placeId": "R10002300",
+                            "geoJsonBoundry": {
+                                "coordinates": [
+                                    [
+                                        [
+                                            77.6211547,
+                                            28.4763117
+                                        ],
+                                        [
+                                            77.6335143,
+                                            28.4709549
+                                        ],
+                                        [
+                                            77.6463031,
+                                            28.4673332
+                                        ],
+                                        [
+                                            77.6508307,
+                                            28.4616363
+                                        ],
+                                        [
+                                            77.6431489,
+                                            28.4486758
+                                        ],
+                                        [
+                                            77.6389646,
+                                            28.4386572
+                                        ],
+                                        [
+                                            77.6305961,
+                                            28.4340155
+                                        ],
+                                        [
+                                            77.6292658,
+                                            28.4314681
+                                        ],
+                                        [
+                                            77.6329779,
+                                            28.426845
+                                        ],
+                                        [
+                                            77.6432347,
+                                            28.4276942
+                                        ],
+                                        [
+                                            77.6458096,
+                                            28.4302227
+                                        ],
+                                        [
+                                            77.652955,
+                                            28.427713
+                                        ],
+                                        [
+                                            77.6574611,
+                                            28.4257883
+                                        ],
+                                        [
+                                            77.6596927,
+                                            28.4301284
+                                        ],
+                                        [
+                                            77.656002,
+                                            28.4368836
+                                        ],
+                                        [
+                                            77.658534,
+                                            28.4403176
+                                        ],
+                                        [
+                                            77.6633835,
+                                            28.4414025
+                                        ],
+                                        [
+                                            77.6653254,
+                                            28.4434496
+                                        ],
+                                        [
+                                            77.6655185,
+                                            28.4442043
+                                        ],
+                                        [
+                                            77.6667523,
+                                            28.4449402
+                                        ],
+                                        [
+                                            77.6673102,
+                                            28.4463646
+                                        ],
+                                        [
+                                            77.667675,
+                                            28.4477985
+                                        ],
+                                        [
+                                            77.6672566,
+                                            28.4483739
+                                        ],
+                                        [
+                                            77.666645,
+                                            28.4484306
+                                        ],
+                                        [
+                                            77.6626968,
+                                            28.4509115
+                                        ],
+                                        [
+                                            77.6618064,
+                                            28.4502229
+                                        ],
+                                        [
+                                            77.661699,
+                                            28.4509869
+                                        ],
+                                        [
+                                            77.6613557,
+                                            28.4512511
+                                        ],
+                                        [
+                                            77.6636194,
+                                            28.4529018
+                                        ],
+                                        [
+                                            77.6663661,
+                                            28.4510718
+                                        ],
+                                        [
+                                            77.6698851,
+                                            28.4496757
+                                        ],
+                                        [
+                                            77.6732111,
+                                            28.449223
+                                        ],
+                                        [
+                                            77.6763868,
+                                            28.4454873
+                                        ],
+                                        [
+                                            77.6748204,
+                                            28.4447892
+                                        ],
+                                        [
+                                            77.678039,
+                                            28.442695
+                                        ],
+                                        [
+                                            77.6758504,
+                                            28.4408648
+                                        ],
+                                        [
+                                            77.6731467,
+                                            28.4373176
+                                        ],
+                                        [
+                                            77.6694989,
+                                            28.436393
+                                        ],
+                                        [
+                                            77.6651215,
+                                            28.4335438
+                                        ],
+                                        [
+                                            77.6609801,
+                                            28.4290717
+                                        ],
+                                        [
+                                            77.6677608,
+                                            28.423939
+                                        ],
+                                        [
+                                            77.6730179,
+                                            28.4272224
+                                        ],
+                                        [
+                                            77.6806783,
+                                            28.4225991
+                                        ],
+                                        [
+                                            77.6830386,
+                                            28.4181265
+                                        ],
+                                        [
+                                            77.6821803,
+                                            28.4132197
+                                        ],
+                                        [
+                                            77.6693916,
+                                            28.405255
+                                        ],
+                                        [
+                                            77.6673745,
+                                            28.3985734
+                                        ],
+                                        [
+                                            77.6688766,
+                                            28.3939677
+                                        ],
+                                        [
+                                            77.6723956,
+                                            28.3893617
+                                        ],
+                                        [
+                                            77.6703357,
+                                            28.3843026
+                                        ],
+                                        [
+                                            77.7008914,
+                                            28.3611179
+                                        ],
+                                        [
+                                            77.715311,
+                                            28.3548488
+                                        ],
+                                        [
+                                            77.7146242,
+                                            28.3454823
+                                        ],
+                                        [
+                                            77.718315,
+                                            28.328409
+                                        ],
+                                        [
+                                            77.7272414,
+                                            28.3311288
+                                        ],
+                                        [
+                                            77.7322196,
+                                            28.3265957
+                                        ],
+                                        [
+                                            77.731018,
+                                            28.3219113
+                                        ],
+                                        [
+                                            77.736082,
+                                            28.3154888
+                                        ],
+                                        [
+                                            77.7227782,
+                                            28.3055899
+                                        ],
+                                        [
+                                            77.7258681,
+                                            28.299771
+                                        ],
+                                        [
+                                            77.7237224,
+                                            28.2945564
+                                        ],
+                                        [
+                                            77.713766,
+                                            28.2898894
+                                        ],
+                                        [
+                                            77.7159976,
+                                            28.2857892
+                                        ],
+                                        [
+                                            77.7171134,
+                                            28.2803471
+                                        ],
+                                        [
+                                            77.720375,
+                                            28.2792134
+                                        ],
+                                        [
+                                            77.7317905,
+                                            28.2796669
+                                        ],
+                                        [
+                                            77.742691,
+                                            28.2804227
+                                        ],
+                                        [
+                                            77.7474975,
+                                            28.2797425
+                                        ],
+                                        [
+                                            77.7520465,
+                                            28.2783063
+                                        ],
+                                        [
+                                            77.7580546,
+                                            28.2745269
+                                        ],
+                                        [
+                                            77.7620887,
+                                            28.2747536
+                                        ],
+                                        [
+                                            77.7651786,
+                                            28.278911
+                                        ],
+                                        [
+                                            77.7691268,
+                                            28.2850334
+                                        ],
+                                        [
+                                            77.7729892,
+                                            28.288888
+                                        ],
+                                        [
+                                            77.7729892,
+                                            28.2922135
+                                        ],
+                                        [
+                                            77.7728175,
+                                            28.2965969
+                                        ],
+                                        [
+                                            77.7723884,
+                                            28.2998465
+                                        ],
+                                        [
+                                            77.772045,
+                                            28.3052876
+                                        ],
+                                        [
+                                            77.7783965,
+                                            28.3040029
+                                        ],
+                                        [
+                                            77.7888679,
+                                            28.2990908
+                                        ],
+                                        [
+                                            77.7906703,
+                                            28.2986374
+                                        ],
+                                        [
+                                            77.7985667,
+                                            28.3004511
+                                        ],
+                                        [
+                                            77.8031158,
+                                            28.3024915
+                                        ],
+                                        [
+                                            77.806549,
+                                            28.3056654
+                                        ],
+                                        [
+                                            77.810583,
+                                            28.3105772
+                                        ],
+                                        [
+                                            77.8123855,
+                                            28.3143554
+                                        ],
+                                        [
+                                            77.8153037,
+                                            28.3178312
+                                        ],
+                                        [
+                                            77.8198527,
+                                            28.3186623
+                                        ],
+                                        [
+                                            77.822771,
+                                            28.3198712
+                                        ],
+                                        [
+                                            77.8233718,
+                                            28.3218357
+                                        ],
+                                        [
+                                            77.8214835,
+                                            28.3252357
+                                        ],
+                                        [
+                                            77.8203677,
+                                            28.3278801
+                                        ],
+                                        [
+                                            77.8219985,
+                                            28.331431
+                                        ],
+                                        [
+                                            77.8262042,
+                                            28.3346796
+                                        ],
+                                        [
+                                            77.8185653,
+                                            28.3446513
+                                        ],
+                                        [
+                                            77.8169345,
+                                            28.3503922
+                                        ],
+                                        [
+                                            77.8159904,
+                                            28.3537158
+                                        ],
+                                        [
+                                            77.812128,
+                                            28.3566616
+                                        ],
+                                        [
+                                            77.8107547,
+                                            28.3574924
+                                        ],
+                                        [
+                                            77.8079223,
+                                            28.3555286
+                                        ],
+                                        [
+                                            77.8061198,
+                                            28.3542445
+                                        ],
+                                        [
+                                            77.8028583,
+                                            28.355302
+                                        ],
+                                        [
+                                            77.7984809,
+                                            28.3567371
+                                        ],
+                                        [
+                                            77.7958202,
+                                            28.358852
+                                        ],
+                                        [
+                                            77.7923011,
+                                            28.3620242
+                                        ],
+                                        [
+                                            77.7878379,
+                                            28.3624773
+                                        ],
+                                        [
+                                            77.7849197,
+                                            28.3611178
+                                        ],
+                                        [
+                                            77.7826022,
+                                            28.3595317
+                                        ],
+                                        [
+                                            77.7789973,
+                                            28.3593807
+                                        ],
+                                        [
+                                            77.7756499,
+                                            28.3630816
+                                        ],
+                                        [
+                                            77.7714442,
+                                            28.3678397
+                                        ],
+                                        [
+                                            77.7684402,
+                                            28.3724465
+                                        ],
+                                        [
+                                            77.7654361,
+                                            28.3776573
+                                        ],
+                                        [
+                                            77.7618312,
+                                            28.3781104
+                                        ],
+                                        [
+                                            77.7586555,
+                                            28.3777328
+                                        ],
+                                        [
+                                            77.7611446,
+                                            28.3831699
+                                        ],
+                                        [
+                                            77.7606296,
+                                            28.3864169
+                                        ],
+                                        [
+                                            77.7590846,
+                                            28.3903433
+                                        ],
+                                        [
+                                            77.7608012,
+                                            28.391929
+                                        ],
+                                        [
+                                            77.7648353,
+                                            28.3949492
+                                        ],
+                                        [
+                                            77.7655219,
+                                            28.3967613
+                                        ],
+                                        [
+                                            77.767496,
+                                            28.3990264
+                                        ],
+                                        [
+                                            77.7712726,
+                                            28.3999324
+                                        ],
+                                        [
+                                            77.7765082,
+                                            28.3984224
+                                        ],
+                                        [
+                                            77.7812289,
+                                            28.3987999
+                                        ],
+                                        [
+                                            77.7841472,
+                                            28.3995549
+                                        ],
+                                        [
+                                            77.7862071,
+                                            28.4019709
+                                        ],
+                                        [
+                                            77.7873229,
+                                            28.4038584
+                                        ],
+                                        [
+                                            77.788782,
+                                            28.4092186
+                                        ],
+                                        [
+                                            77.7880096,
+                                            28.4148805
+                                        ],
+                                        [
+                                            77.7875804,
+                                            28.4249202
+                                        ],
+                                        [
+                                            77.790327,
+                                            28.4331476
+                                        ],
+                                        [
+                                            77.7940177,
+                                            28.4387327
+                                        ],
+                                        [
+                                            77.7972793,
+                                            28.4427328
+                                        ],
+                                        [
+                                            77.8063773,
+                                            28.4460534
+                                        ],
+                                        [
+                                            77.806034,
+                                            28.4501286
+                                        ],
+                                        [
+                                            77.8028583,
+                                            28.4518643
+                                        ],
+                                        [
+                                            77.8043174,
+                                            28.4564675
+                                        ],
+                                        [
+                                            77.8083514,
+                                            28.4580521
+                                        ],
+                                        [
+                                            77.8129005,
+                                            28.4615987
+                                        ],
+                                        [
+                                            77.8129005,
+                                            28.4665032
+                                        ],
+                                        [
+                                            77.8079223,
+                                            28.4655978
+                                        ],
+                                        [
+                                            77.8011417,
+                                            28.4640887
+                                        ],
+                                        [
+                                            77.7947902,
+                                            28.4652205
+                                        ],
+                                        [
+                                            77.7894687,
+                                            28.4680123
+                                        ],
+                                        [
+                                            77.7883529,
+                                            28.4711813
+                                        ],
+                                        [
+                                            77.7817439,
+                                            28.4783488
+                                        ],
+                                        [
+                                            77.7871513,
+                                            28.4791787
+                                        ],
+                                        [
+                                            77.7860355,
+                                            28.484007
+                                        ],
+                                        [
+                                            77.785778,
+                                            28.4899667
+                                        ],
+                                        [
+                                            77.7875804,
+                                            28.4933612
+                                        ],
+                                        [
+                                            77.7856063,
+                                            28.4969066
+                                        ],
+                                        [
+                                            77.7820014,
+                                            28.4999238
+                                        ],
+                                        [
+                                            77.7822589,
+                                            28.5044495
+                                        ],
+                                        [
+                                            77.7850913,
+                                            28.5038461
+                                        ],
+                                        [
+                                            77.7895545,
+                                            28.5069385
+                                        ],
+                                        [
+                                            77.789812,
+                                            28.5139528
+                                        ],
+                                        [
+                                            77.7902412,
+                                            28.5211174
+                                        ],
+                                        [
+                                            77.7854346,
+                                            28.522324
+                                        ],
+                                        [
+                                            77.780199,
+                                            28.5208911
+                                        ],
+                                        [
+                                            77.7749633,
+                                            28.5185533
+                                        ],
+                                        [
+                                            77.772045,
+                                            28.5184779
+                                        ],
+                                        [
+                                            77.7662086,
+                                            28.5211174
+                                        ],
+                                        [
+                                            77.7601146,
+                                            28.521419
+                                        ],
+                                        [
+                                            77.7554797,
+                                            28.5191566
+                                        ],
+                                        [
+                                            77.7511024,
+                                            28.5177237
+                                        ],
+                                        [
+                                            77.7475833,
+                                            28.5181008
+                                        ],
+                                        [
+                                            77.7450084,
+                                            28.5199108
+                                        ],
+                                        [
+                                            77.7417468,
+                                            28.5254159
+                                        ],
+                                        [
+                                            77.7402877,
+                                            28.5313732
+                                        ],
+                                        [
+                                            77.7334212,
+                                            28.536727
+                                        ],
+                                        [
+                                            77.7284431,
+                                            28.5384613
+                                        ],
+                                        [
+                                            77.7222633,
+                                            28.5404217
+                                        ],
+                                        [
+                                            77.7192592,
+                                            28.5420051
+                                        ],
+                                        [
+                                            77.7172851,
+                                            28.5452472
+                                        ],
+                                        [
+                                            77.7184867,
+                                            28.5475091
+                                        ],
+                                        [
+                                            77.7196669,
+                                            28.5516369
+                                        ],
+                                        [
+                                            77.7136802,
+                                            28.5583278
+                                        ],
+                                        [
+                                            77.7067279,
+                                            28.5584032
+                                        ],
+                                        [
+                                            77.7059877,
+                                            28.5567823
+                                        ],
+                                        [
+                                            77.6996469,
+                                            28.5567352
+                                        ],
+                                        [
+                                            77.6991641,
+                                            28.5586199
+                                        ],
+                                        [
+                                            77.6923513,
+                                            28.5584032
+                                        ],
+                                        [
+                                            77.6852404,
+                                            28.5581299
+                                        ],
+                                        [
+                                            77.688446,
+                                            28.5506756
+                                        ],
+                                        [
+                                            77.6877808,
+                                            28.540516
+                                        ],
+                                        [
+                                            77.6916217,
+                                            28.5358598
+                                        ],
+                                        [
+                                            77.6861286,
+                                            28.5304306
+                                        ],
+                                        [
+                                            77.6835537,
+                                            28.5163661
+                                        ],
+                                        [
+                                            77.6841116,
+                                            28.5117656
+                                        ],
+                                        [
+                                            77.6613235,
+                                            28.5010929
+                                        ],
+                                        [
+                                            77.6532125,
+                                            28.4950585
+                                        ],
+                                        [
+                                            77.6385784,
+                                            28.492456
+                                        ],
+                                        [
+                                            77.6301026,
+                                            28.4839881
+                                        ],
+                                        [
+                                            77.6277637,
+                                            28.4803858
+                                        ],
+                                        [
+                                            77.6211547,
+                                            28.4763117
+                                        ]
+                                    ]
+                                ],
+                                "type": "Polygon"
+                            },
+                            "externalId": null,
+                            "source": "GOOGLE",
+                            "places": null,
+                            "viewport": {
+                                "southwest": {
+                                    "latitude": 28.5586199,
+                                    "longitude": 77.8262042
+                                },
+                                "northeast": {
+                                    "latitude": 28.2745269,
+                                    "longitude": 77.6211547
+                                }
+                            },
+                            "district": null,
+                            "name": "Sikandrabad",
+                            "state": null,
+                            "category": null,
+                            "subDistrict": null,
+                            "controllingBranchId": null
+                        }
+                    ],
+                    "viewport": null,
+                    "district": null,
+                    "name": "SIKANDRABAD",
+                    "state": null,
+                    "category": "Hub",
+                    "subDistrict": null,
+                    "controllingBranchId": null
+                },
+                "imei": null,
+                "assosiatedShipmentsId": [
+                    "e73a56a9-445d-4312-ab89-1a3b2a45e9ec"
+                ],
+                "status": "COMPLETED"
+            },
+            "place": null,
+            "controllingBranchId": null,
+            "gateOutTime": null,
+            "status": "COMPLETED"
+        }
+    ],
+    "remarks": null,
+    "syncUpExpiryTime": null,
+    "shipmentStatus": "Completed"
+}

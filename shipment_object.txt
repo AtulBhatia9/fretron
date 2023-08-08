@@ -1,0 +1,1724 @@
+{
+    "creationTime": 1686200309203,
+    "customFields": [
+        {
+            "indexedValue": [
+                "FreightCost_47500.0"
+            ],
+            "fieldKey": "FreightCost",
+            "multiple": false,
+            "description": null,
+            "remark": null,
+            "uuid": null,
+            "required": false,
+            "accessType": null,
+            "input": "string",
+            "unit": null,
+            "valueType": "string",
+            "options": null,
+            "fieldType": "text",
+            "value": "47500.0",
+            "isRemark": false
+        },
+        {
+            "indexedValue": [
+                "FreightType_perVehicle"
+            ],
+            "fieldKey": "FreightType",
+            "multiple": false,
+            "description": null,
+            "remark": null,
+            "uuid": null,
+            "required": false,
+            "accessType": null,
+            "input": "string",
+            "unit": null,
+            "valueType": "string",
+            "options": null,
+            "fieldType": "text",
+            "value": "perVehicle",
+            "isRemark": false
+        },
+        {
+            "indexedValue": [
+                "PONo_f97334dd-f688-4ae4-9700-639f2b5d347a"
+            ],
+            "fieldKey": "PONo",
+            "multiple": false,
+            "description": null,
+            "remark": null,
+            "uuid": null,
+            "required": false,
+            "accessType": null,
+            "input": "string",
+            "unit": null,
+            "valueType": "string",
+            "options": null,
+            "fieldType": "text",
+            "value": "f97334dd-f688-4ae4-9700-639f2b5d347a",
+            "isRemark": false
+        },
+        {
+            "indexedValue": [
+                "Invoice No's_7022301932"
+            ],
+            "fieldKey": "Invoice No's",
+            "multiple": false,
+            "description": null,
+            "remark": null,
+            "uuid": null,
+            "required": false,
+            "accessType": null,
+            "input": null,
+            "unit": null,
+            "valueType": "string",
+            "options": null,
+            "fieldType": "text",
+            "value": "7022301932",
+            "isRemark": false
+        }
+    ],
+    "transportationMode": "ByRoad",
+    "freightUnitLineItemId": "b204020c-8a62-4d01-bd01-b9a6271b9ec1",
+    "lastSyncUpTime": 1686200309203,
+    "updates": {
+        "traceID": "0a0080e6-e4bd-406e-9aaa-fa75b6ccb7a1",
+        "resourceId": "c72d59df-ff60-4273-b9b5-5838e13120e5",
+        "updatedBy": "USER",
+        "changes": null,
+        "sourceOfInformation": null,
+        "description": "Added Invoice No's : 7022301932",
+        "forwardReasons": [
+            "shipment.custom.fields.updated"
+        ],
+        "userId": "a42e539c-88f3-42cf-a1e7-d13e0b60833d",
+        "uuid": "3c141d50-87ba-4d75-a1bd-0034783a5515",
+        "revision": 0,
+        "time": 1686200660296,
+        "forwardedFrom": "Invoice No's",
+        "resourceType": "ShipmentObject",
+        "updateType": null
+    },
+    "isActive": false,
+    "uuid": "c72d59df-ff60-4273-b9b5-5838e13120e5",
+    "issues": null,
+    "branch": {
+        "address": "UTTAR PRADESH",
+        "updatedBy": null,
+        "customFields": [
+            {
+                "indexedValue": [
+                    "FCM_GSTN_09AAACS0326G1ZP"
+                ],
+                "fieldKey": "FCM_GSTN",
+                "valueType": "string",
+                "fieldType": "text",
+                "value": "09AAACS0326G1ZP",
+                "definitionId": null
+            },
+            {
+                "indexedValue": [
+                    "RCM_GSTN_null"
+                ],
+                "fieldKey": "RCM_GSTN",
+                "valueType": "string",
+                "fieldType": "text",
+                "value": null,
+                "definitionId": null
+            },
+            {
+                "indexedValue": [
+                    "STATE_NAME_UTTAR PRADESH"
+                ],
+                "fieldKey": "STATE_NAME",
+                "valueType": "string",
+                "fieldType": "text",
+                "value": "UTTAR PRADESH",
+                "definitionId": null
+            }
+        ],
+        "regionName": "SURAJPUR",
+        "externalId": "USUR",
+        "branchName": null,
+        "type": [
+            "Operation",
+            "Sales"
+        ],
+        "updates": null,
+        "orgId": "3e4cdee9-0b3b-46dd-9b98-df0e38a0271c",
+        "areaId": null,
+        "geoLocation": null,
+        "regionId": null,
+        "areaName": null,
+        "name": "FENA (P) LIMITED-SURAJPUR",
+        "zoneId": null,
+        "_id": "872c3360-6aee-428d-bf80-cd886047be7d",
+        "zoneName": null,
+        "contacts": [
+            {
+                "emails": [
+                    ""
+                ],
+                "address": null,
+                "mobileNumbers": [
+                    ""
+                ],
+                "mobileNumber": null,
+                "name": "",
+                "type": null
+            }
+        ],
+        "officeType": null,
+        "materialServices": null
+    },
+    "orgId": "3e4cdee9-0b3b-46dd-9b98-df0e38a0271c",
+    "shipmentType": "DirectLeg",
+    "completionTime": null,
+    "routeId": null,
+    "shipmentTrackingStatus": "Enroute For Pickup",
+    "lastForwardTime": null,
+    "runningStatus": null,
+    "delayTrackingStatus": "UP TO DATE",
+    "delayReasonLastUpdateTime": null,
+    "links": null,
+    "shipmentDate": 1686200309156,
+    "delayReason": null,
+    "shipmentNumber": "FRETSH000001535",
+    "originalEdd": null,
+    "edd": null,
+    "delayReasonUpdateExpiryTime": null,
+    "externalShipmentId": null,
+    "fleetInfo": {
+        "isTrackingEnable": null,
+        "forwardingAgent": null,
+        "verificationStatus": null,
+        "trackingMode": "MANUAL",
+        "broker": {
+            "geoFence": null,
+            "documents": [],
+            "customFields": [
+                {
+                    "indexedValue": [
+                        "totalPlacementPendingV2_2"
+                    ],
+                    "fieldKey": "totalPlacementPendingV2",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": "String",
+                    "unit": null,
+                    "valueType": "String",
+                    "options": null,
+                    "fieldType": "text",
+                    "value": "2",
+                    "isRemark": false
+                },
+                {
+                    "indexedValue": [
+                        "bidRemainingV2_0"
+                    ],
+                    "fieldKey": "bidRemainingV2",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": "String",
+                    "unit": null,
+                    "valueType": "String",
+                    "options": null,
+                    "fieldType": "text",
+                    "value": "0",
+                    "isRemark": false
+                },
+                {
+                    "indexedValue": [
+                        "bidSubmittedV2_0"
+                    ],
+                    "fieldKey": "bidSubmittedV2",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": "String",
+                    "unit": null,
+                    "valueType": "String",
+                    "options": null,
+                    "fieldType": "text",
+                    "value": "0",
+                    "isRemark": false
+                },
+                {
+                    "indexedValue": [
+                        "minRemainingTimeV2_0"
+                    ],
+                    "fieldKey": "minRemainingTimeV2",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": "String",
+                    "unit": null,
+                    "valueType": "String",
+                    "options": null,
+                    "fieldType": "text",
+                    "value": "0",
+                    "isRemark": false
+                },
+                {
+                    "indexedValue": [
+                        "totalAuctionsV2_0"
+                    ],
+                    "fieldKey": "totalAuctionsV2",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": "String",
+                    "unit": null,
+                    "valueType": "String",
+                    "options": null,
+                    "fieldType": "text",
+                    "value": "0",
+                    "isRemark": false
+                },
+                {
+                    "indexedValue": [
+                        "criticalOrderV2_0"
+                    ],
+                    "fieldKey": "criticalOrderV2",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": "String",
+                    "unit": null,
+                    "valueType": "String",
+                    "options": null,
+                    "fieldType": "text",
+                    "value": "0",
+                    "isRemark": false
+                },
+                {
+                    "indexedValue": [
+                        "live-auctions_0"
+                    ],
+                    "fieldKey": "live-auctions",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": "String",
+                    "unit": null,
+                    "valueType": "String",
+                    "options": null,
+                    "fieldType": "text",
+                    "value": "0",
+                    "isRemark": false
+                },
+                {
+                    "indexedValue": [
+                        "live-bids-pending_0"
+                    ],
+                    "fieldKey": "live-bids-pending",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": "String",
+                    "unit": null,
+                    "valueType": "String",
+                    "options": null,
+                    "fieldType": "text",
+                    "value": "0",
+                    "isRemark": false
+                }
+            ],
+            "isPortalEnabled": true,
+            "type": "vendor",
+            "updates": {
+                "traceID": "6a5b328a-4e21-430b-85eb-31099f7f3cf9",
+                "resourceId": "dec3447c-e1e0-47e1-a2a9-f672c71e62c1",
+                "updatedBy": "SYSTEM",
+                "changes": [
+                    {
+                        "lastValue": "1",
+                        "fieldName": "bidSubmittedV2",
+                        "fieldType": "String",
+                        "currentValue": "0"
+                    },
+                    {
+                        "lastValue": "1",
+                        "fieldName": "totalAuctionsV2",
+                        "fieldType": "String",
+                        "currentValue": "0"
+                    }
+                ],
+                "sourceOfInformation": null,
+                "description": "updated field bidSubmittedV2|updated field totalAuctionsV2",
+                "forwardReasons": [
+                    "business.partner.update.event",
+                    "business.partner.custom.field"
+                ],
+                "userId": null,
+                "uuid": "5fd0873d-576b-43e1-8fa7-f8cb1feafa41",
+                "revision": null,
+                "time": 1686145711148,
+                "forwardedFrom": null,
+                "resourceType": "Business-Partner",
+                "updateType": null
+            },
+            "uuid": "dec3447c-e1e0-47e1-a2a9-f672c71e62c1",
+            "orgId": "3e4cdee9-0b3b-46dd-9b98-df0e38a0271c",
+            "firmType": "INDIVISUAL",
+            "gstn": "24BMBPS0782B1ZD",
+            "voterId": null,
+            "verificationTicketId": null,
+            "group": {
+                "name": "Broker",
+                "partnerType": "vendor",
+                "uuid": "661a7cb5-339b-48f5-942f-967e9fc1abf3",
+                "orgId": "3e4cdee9-0b3b-46dd-9b98-df0e38a0271c"
+            },
+            "address": "{\"pincode\":396195,\"address\":\"501, SKYLON BUILDING DAMAN SILV ROA\",\"city\":\"NEAR CHAR RASTA GIDC VAPI\",\"state\":\"\"}",
+            "verificationStatus": "unverified",
+            "externalId": "7500564",
+            "panNumber": "BMBPS0782B",
+            "aadharNo": null,
+            "parentId": null,
+            "places": [],
+            "route": null,
+            "name": "SANTOSH LOGISTICS",
+            "location": null,
+            "fretronId": null,
+            "contacts": [
+                {
+                    "emails": [
+                        "santoshlogisticsvapi@gmail.com"
+                    ],
+                    "address": null,
+                    "mobileNumbers": [
+                        "9998511226"
+                    ],
+                    "mobileNumber": null,
+                    "name": "Mr.Ombir Sharma",
+                    "type": null
+                },
+                {
+                    "emails": [
+                        "logistics@fena.com"
+                    ],
+                    "address": null,
+                    "mobileNumbers": [
+                        "9998511226"
+                    ],
+                    "mobileNumber": null,
+                    "name": "Mr.Ombir Sharma",
+                    "type": null
+                },
+                {
+                    "emails": [
+                        "santoshlogisticsvapi@gmail.com"
+                    ],
+                    "address": null,
+                    "mobileNumbers": [
+                        "9429076073"
+                    ],
+                    "mobileNumber": null,
+                    "name": "SANTOSH LOGISTICS ROORKEE",
+                    "type": null
+                }
+            ],
+            "status": "ACTIVE"
+        },
+        "uuid": null,
+        "orgId": null,
+        "vehicle": {
+            "vtsDeviceId": null,
+            "kmDriven": null,
+            "secondaryDriverId": null,
+            "attachedDocs": null,
+            "customFields": null,
+            "floorType": null,
+            "description": null,
+            "source": null,
+            "isTrackingEnabled": null,
+            "updates": null,
+            "uuid": null,
+            "branch": null,
+            "orgId": null,
+            "vehicleLoadType": null,
+            "associatedWith": null,
+            "isDeleted": null,
+            "customerId": null,
+            "vehicleModel": null,
+            "mileageEmpty": null,
+            "mileageLoaded": null,
+            "vehicleType": "Truck",
+            "groups": null,
+            "externalId": null,
+            "updateTime": null,
+            "sharedWith": null,
+            "baseLocationId": null,
+            "vehicleMake": null,
+            "vehicleRegistrationNumber": "RJ52GA5965",
+            "chassisNumber": null,
+            "driverId": null,
+            "createTime": null,
+            "loadCapacity": 35,
+            "truckLength": null,
+            "category": null,
+            "groupsExtended": null
+        },
+        "driver": {
+            "pincode": null,
+            "dlExpiryTime": null,
+            "attachedDocs": null,
+            "isEmployee": false,
+            "pfNumber": null,
+            "address": null,
+            "mobileNumbers": null,
+            "dlNumber": null,
+            "mobileNumber": "7678234925",
+            "customFields": null,
+            "externalId": null,
+            "updates": null,
+            "aadharNo": null,
+            "type": null,
+            "uuid": null,
+            "branch": null,
+            "orgId": null,
+            "vehicleRegistrationNumber": null,
+            "name": null,
+            "vehicleId": null,
+            "associatedUserId": null,
+            "status": null
+        },
+        "fleetType": "Owned",
+        "fleetOwner": {
+            "geoFence": null,
+            "documents": [],
+            "customFields": [
+                {
+                    "indexedValue": [
+                        "totalPlacementPendingV2_2"
+                    ],
+                    "fieldKey": "totalPlacementPendingV2",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": "String",
+                    "unit": null,
+                    "valueType": "String",
+                    "options": null,
+                    "fieldType": "text",
+                    "value": "2",
+                    "isRemark": false
+                },
+                {
+                    "indexedValue": [
+                        "bidRemainingV2_0"
+                    ],
+                    "fieldKey": "bidRemainingV2",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": "String",
+                    "unit": null,
+                    "valueType": "String",
+                    "options": null,
+                    "fieldType": "text",
+                    "value": "0",
+                    "isRemark": false
+                },
+                {
+                    "indexedValue": [
+                        "bidSubmittedV2_0"
+                    ],
+                    "fieldKey": "bidSubmittedV2",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": "String",
+                    "unit": null,
+                    "valueType": "String",
+                    "options": null,
+                    "fieldType": "text",
+                    "value": "0",
+                    "isRemark": false
+                },
+                {
+                    "indexedValue": [
+                        "minRemainingTimeV2_0"
+                    ],
+                    "fieldKey": "minRemainingTimeV2",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": "String",
+                    "unit": null,
+                    "valueType": "String",
+                    "options": null,
+                    "fieldType": "text",
+                    "value": "0",
+                    "isRemark": false
+                },
+                {
+                    "indexedValue": [
+                        "totalAuctionsV2_0"
+                    ],
+                    "fieldKey": "totalAuctionsV2",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": "String",
+                    "unit": null,
+                    "valueType": "String",
+                    "options": null,
+                    "fieldType": "text",
+                    "value": "0",
+                    "isRemark": false
+                },
+                {
+                    "indexedValue": [
+                        "criticalOrderV2_0"
+                    ],
+                    "fieldKey": "criticalOrderV2",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": "String",
+                    "unit": null,
+                    "valueType": "String",
+                    "options": null,
+                    "fieldType": "text",
+                    "value": "0",
+                    "isRemark": false
+                },
+                {
+                    "indexedValue": [
+                        "live-auctions_0"
+                    ],
+                    "fieldKey": "live-auctions",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": "String",
+                    "unit": null,
+                    "valueType": "String",
+                    "options": null,
+                    "fieldType": "text",
+                    "value": "0",
+                    "isRemark": false
+                },
+                {
+                    "indexedValue": [
+                        "live-bids-pending_0"
+                    ],
+                    "fieldKey": "live-bids-pending",
+                    "multiple": false,
+                    "description": null,
+                    "remark": null,
+                    "uuid": null,
+                    "required": false,
+                    "accessType": null,
+                    "input": "String",
+                    "unit": null,
+                    "valueType": "String",
+                    "options": null,
+                    "fieldType": "text",
+                    "value": "0",
+                    "isRemark": false
+                }
+            ],
+            "isPortalEnabled": true,
+            "type": "vendor",
+            "updates": {
+                "traceID": "6a5b328a-4e21-430b-85eb-31099f7f3cf9",
+                "resourceId": "dec3447c-e1e0-47e1-a2a9-f672c71e62c1",
+                "updatedBy": "SYSTEM",
+                "changes": [
+                    {
+                        "lastValue": "1",
+                        "fieldName": "bidSubmittedV2",
+                        "fieldType": "String",
+                        "currentValue": "0"
+                    },
+                    {
+                        "lastValue": "1",
+                        "fieldName": "totalAuctionsV2",
+                        "fieldType": "String",
+                        "currentValue": "0"
+                    }
+                ],
+                "sourceOfInformation": null,
+                "description": "updated field bidSubmittedV2|updated field totalAuctionsV2",
+                "forwardReasons": [
+                    "business.partner.update.event",
+                    "business.partner.custom.field"
+                ],
+                "userId": null,
+                "uuid": "5fd0873d-576b-43e1-8fa7-f8cb1feafa41",
+                "revision": null,
+                "time": 1686145711148,
+                "forwardedFrom": null,
+                "resourceType": "Business-Partner",
+                "updateType": null
+            },
+            "uuid": "dec3447c-e1e0-47e1-a2a9-f672c71e62c1",
+            "orgId": "3e4cdee9-0b3b-46dd-9b98-df0e38a0271c",
+            "firmType": "INDIVISUAL",
+            "gstn": "24BMBPS0782B1ZD",
+            "voterId": null,
+            "verificationTicketId": null,
+            "group": {
+                "name": "Broker",
+                "partnerType": "vendor",
+                "uuid": "661a7cb5-339b-48f5-942f-967e9fc1abf3",
+                "orgId": "3e4cdee9-0b3b-46dd-9b98-df0e38a0271c"
+            },
+            "address": "{\"pincode\":396195,\"address\":\"501, SKYLON BUILDING DAMAN SILV ROA\",\"city\":\"NEAR CHAR RASTA GIDC VAPI\",\"state\":\"\"}",
+            "verificationStatus": "unverified",
+            "externalId": "7500564",
+            "panNumber": "BMBPS0782B",
+            "aadharNo": null,
+            "parentId": null,
+            "places": [],
+            "route": null,
+            "name": "SANTOSH LOGISTICS",
+            "location": null,
+            "fretronId": null,
+            "contacts": [
+                {
+                    "emails": [
+                        "santoshlogisticsvapi@gmail.com"
+                    ],
+                    "address": null,
+                    "mobileNumbers": [
+                        "9998511226"
+                    ],
+                    "mobileNumber": null,
+                    "name": "Mr.Ombir Sharma",
+                    "type": null
+                },
+                {
+                    "emails": [
+                        "logistics@fena.com"
+                    ],
+                    "address": null,
+                    "mobileNumbers": [
+                        "9998511226"
+                    ],
+                    "mobileNumber": null,
+                    "name": "Mr.Ombir Sharma",
+                    "type": null
+                },
+                {
+                    "emails": [
+                        "santoshlogisticsvapi@gmail.com"
+                    ],
+                    "address": null,
+                    "mobileNumbers": [
+                        "9429076073"
+                    ],
+                    "mobileNumber": null,
+                    "name": "SANTOSH LOGISTICS ROORKEE",
+                    "type": null
+                }
+            ],
+            "status": "ACTIVE"
+        },
+        "trainInfo": null,
+        "lbsNumber": null,
+        "secondaryDriver": {
+            "pincode": null,
+            "dlExpiryTime": null,
+            "attachedDocs": null,
+            "isEmployee": false,
+            "pfNumber": null,
+            "address": null,
+            "mobileNumbers": null,
+            "dlNumber": null,
+            "mobileNumber": null,
+            "customFields": null,
+            "externalId": null,
+            "updates": null,
+            "aadharNo": null,
+            "type": null,
+            "uuid": null,
+            "branch": null,
+            "orgId": null,
+            "vehicleRegistrationNumber": null,
+            "name": null,
+            "vehicleId": null,
+            "associatedUserId": null,
+            "status": null
+        },
+        "device": {
+            "branchId": null,
+            "isSuspended": null,
+            "mobileNumber": null,
+            "manufacturerName": null,
+            "groups": null,
+            "attachedResourceNumber": null,
+            "externalId": null,
+            "updateTime": null,
+            "isAssociated": null,
+            "sharedWith": null,
+            "type": null,
+            "updates": null,
+            "uuid": null,
+            "orgId": null,
+            "attachedResourceId": null,
+            "isDeleted": null,
+            "createTime": null,
+            "serviceProvider": null,
+            "imei": null,
+            "usedBy": null,
+            "status": null
+        },
+        "status": null
+    },
+    "syncUpDueTime": 1780808309206,
+    "billingStatus": null,
+    "currentLocation": null,
+    "alerts": null,
+    "equipments": null,
+    "tripType": "Shipment",
+    "lastDelayCalculationTime": null,
+    "delayReasonUpdateDueTime": null,
+    "locationTrackingStatus": "DUE",
+    "poLineItemId": "080ca789-7725-40e3-ba3a-a924ce35bf22",
+    "consignments": [],
+    "customContacts": null,
+    "shipmentStages": [
+        {
+            "departureTime": null,
+            "gateInTime": null,
+            "actualActivityStartTime": null,
+            "actualActivityEndTime": null,
+            "uuid": "05869593-6619-44de-a27f-b3acd4f9aecc",
+            "consignmentDelivered": null,
+            "resourceDropOff": null,
+            "resourcePickup": null,
+            "eta": null,
+            "stageName": "FENA (P) LIMITED (SURAJPUR), SURAJPUR",
+            "hub": {
+                "hubId": null,
+                "boundary": [
+                    [
+                        [
+                            77.4779401279514,
+                            28.510121985263428
+                        ],
+                        [
+                            77.47927655025212,
+                            28.50993829793438
+                        ],
+                        [
+                            77.47926581593646,
+                            28.511327719789843
+                        ],
+                        [
+                            77.4778435191104,
+                            28.511572632931312
+                        ],
+                        [
+                            77.4779401279514,
+                            28.510121985263428
+                        ]
+                    ]
+                ],
+                "address": null,
+                "accessibility": "private",
+                "addedBy": "3e4cdee9-0b3b-46dd-9b98-df0e38a0271c",
+                "center": {
+                    "latitude": 28.51061652423648,
+                    "longitude": 77.47845322824035
+                },
+                "suggestedRadius": 0,
+                "isOwned": null,
+                "centerCoordinates": [
+                    77.47845322824035,
+                    28.51061652423648
+                ],
+                "placeId": "fe3be2a6-3a16-4d99-9450-aaa41015b188",
+                "geoJsonBoundry": null,
+                "externalId": null,
+                "source": "GOOGLE",
+                "places": [
+                    {
+                        "hubId": null,
+                        "boundary": null,
+                        "address": ",Surajpur,Gautam Buddha Nagar,Gautam Buddha Nagar,Uttar Pradesh,201306,India,in",
+                        "accessibility": null,
+                        "addedBy": null,
+                        "center": {
+                            "latitude": 28.510648500000002,
+                            "longitude": 77.47854161693084
+                        },
+                        "suggestedRadius": 2056.927098421004,
+                        "isOwned": null,
+                        "centerCoordinates": [
+                            77.47854161693084,
+                            28.510648500000002
+                        ],
+                        "placeId": "W353217244",
+                        "geoJsonBoundry": {
+                            "coordinates": [
+                                [
+                                    [
+                                        77.4698497,
+                                        28.5144657
+                                    ],
+                                    [
+                                        77.4699845,
+                                        28.5131791
+                                    ],
+                                    [
+                                        77.470624,
+                                        28.5121761
+                                    ],
+                                    [
+                                        77.471245,
+                                        28.5115097
+                                    ],
+                                    [
+                                        77.4738906,
+                                        28.5096945
+                                    ],
+                                    [
+                                        77.4740772,
+                                        28.5095771
+                                    ],
+                                    [
+                                        77.4745047,
+                                        28.5089272
+                                    ],
+                                    [
+                                        77.4773683,
+                                        28.5064458
+                                    ],
+                                    [
+                                        77.4826039,
+                                        28.5016217
+                                    ],
+                                    [
+                                        77.4847006,
+                                        28.5000051
+                                    ],
+                                    [
+                                        77.4853241,
+                                        28.5006255
+                                    ],
+                                    [
+                                        77.4852553,
+                                        28.5010188
+                                    ],
+                                    [
+                                        77.4851003,
+                                        28.5015482
+                                    ],
+                                    [
+                                        77.4845667,
+                                        28.5035903
+                                    ],
+                                    [
+                                        77.4846356,
+                                        28.5042862
+                                    ],
+                                    [
+                                        77.4850562,
+                                        28.5057769
+                                    ],
+                                    [
+                                        77.485152,
+                                        28.5061164
+                                    ],
+                                    [
+                                        77.485393,
+                                        28.5072963
+                                    ],
+                                    [
+                                        77.4838438,
+                                        28.5082795
+                                    ],
+                                    [
+                                        77.4839126,
+                                        28.5087181
+                                    ],
+                                    [
+                                        77.484292,
+                                        28.5097873
+                                    ],
+                                    [
+                                        77.4850475,
+                                        28.5120227
+                                    ],
+                                    [
+                                        77.485023,
+                                        28.513012
+                                    ],
+                                    [
+                                        77.484979,
+                                        28.5142225
+                                    ],
+                                    [
+                                        77.4877948,
+                                        28.5169083
+                                    ],
+                                    [
+                                        77.4864851,
+                                        28.5176957
+                                    ],
+                                    [
+                                        77.4848595,
+                                        28.5187395
+                                    ],
+                                    [
+                                        77.4844538,
+                                        28.5189986
+                                    ],
+                                    [
+                                        77.4842395,
+                                        28.5191355
+                                    ],
+                                    [
+                                        77.4836351,
+                                        28.5195215
+                                    ],
+                                    [
+                                        77.482685,
+                                        28.5199343
+                                    ],
+                                    [
+                                        77.4824877,
+                                        28.5200201
+                                    ],
+                                    [
+                                        77.4820336,
+                                        28.5202174
+                                    ],
+                                    [
+                                        77.4817705,
+                                        28.5203317
+                                    ],
+                                    [
+                                        77.4814862,
+                                        28.5204552
+                                    ],
+                                    [
+                                        77.4812464,
+                                        28.5205391
+                                    ],
+                                    [
+                                        77.4807367,
+                                        28.5207173
+                                    ],
+                                    [
+                                        77.4797031,
+                                        28.5205553
+                                    ],
+                                    [
+                                        77.4789677,
+                                        28.52044
+                                    ],
+                                    [
+                                        77.4787067,
+                                        28.5203757
+                                    ],
+                                    [
+                                        77.4773095,
+                                        28.5201801
+                                    ],
+                                    [
+                                        77.4760498,
+                                        28.519822
+                                    ],
+                                    [
+                                        77.4755952,
+                                        28.5197664
+                                    ],
+                                    [
+                                        77.4750869,
+                                        28.5197043
+                                    ],
+                                    [
+                                        77.4742289,
+                                        28.5195994
+                                    ],
+                                    [
+                                        77.4739194,
+                                        28.5195616
+                                    ],
+                                    [
+                                        77.4736971,
+                                        28.5191546
+                                    ],
+                                    [
+                                        77.4733019,
+                                        28.5187153
+                                    ],
+                                    [
+                                        77.472989,
+                                        28.5183676
+                                    ],
+                                    [
+                                        77.4721595,
+                                        28.5174455
+                                    ],
+                                    [
+                                        77.4715628,
+                                        28.5167628
+                                    ],
+                                    [
+                                        77.4710428,
+                                        28.5161679
+                                    ],
+                                    [
+                                        77.4704892,
+                                        28.5168344
+                                    ],
+                                    [
+                                        77.4703248,
+                                        28.5168534
+                                    ],
+                                    [
+                                        77.4703508,
+                                        28.516476
+                                    ],
+                                    [
+                                        77.4702284,
+                                        28.5159631
+                                    ],
+                                    [
+                                        77.4701061,
+                                        28.5154795
+                                    ],
+                                    [
+                                        77.4698497,
+                                        28.5144657
+                                    ]
+                                ]
+                            ],
+                            "type": "Polygon"
+                        },
+                        "externalId": null,
+                        "source": "GOOGLE",
+                        "places": null,
+                        "viewport": {
+                            "southwest": {
+                                "latitude": 28.5207173,
+                                "longitude": 77.4877948
+                            },
+                            "northeast": {
+                                "latitude": 28.5000051,
+                                "longitude": 77.4698497
+                            }
+                        },
+                        "district": null,
+                        "name": "Surajpur",
+                        "state": null,
+                        "category": null,
+                        "subDistrict": null,
+                        "controllingBranchId": null
+                    }
+                ],
+                "viewport": null,
+                "district": "Greater Noida",
+                "name": "SURAJPUR",
+                "state": "UTTAR PRADESH",
+                "category": "Hub",
+                "subDistrict": null,
+                "controllingBranchId": null
+            },
+            "arrivalTime": null,
+            "expectedActivityStartTime": null,
+            "secondaryStatus": null,
+            "consignmentPickUps": null,
+            "tripPoint": {
+                "outOfTrackSince": null,
+                "creationTime": null,
+                "purpose": "Pickup",
+                "plannedArrival": null,
+                "currentGpsState": null,
+                "updates": null,
+                "uuid": "05869593-6619-44de-a27f-b3acd4f9aecc",
+                "sequenceId": null,
+                "isDisconnected": false,
+                "isOutOfTrack": false,
+                "routeDeviationMinimumDistanceConstraint": null,
+                "eta": null,
+                "routeId": null,
+                "expectedActivityStartTime": null,
+                "actualDeparture": null,
+                "vehicleId": null,
+                "place": null,
+                "remainingDistance": null,
+                "actualActivityStartTime": null,
+                "forShipmentStages": [
+                    "05869593-6619-44de-a27f-b3acd4f9aecc"
+                ],
+                "actualActivityEndTime": null,
+                "actualArrival": null,
+                "purposedDistance": null,
+                "plannedDeparture": null,
+                "currentLocation": null,
+                "isAutoCompleted": false,
+                "coveredDistance": null,
+                "hub": {
+                    "hubId": null,
+                    "boundary": [
+                        [
+                            [
+                                77.4779401279514,
+                                28.510121985263428
+                            ],
+                            [
+                                77.47927655025212,
+                                28.50993829793438
+                            ],
+                            [
+                                77.47926581593646,
+                                28.511327719789843
+                            ],
+                            [
+                                77.4778435191104,
+                                28.511572632931312
+                            ],
+                            [
+                                77.4779401279514,
+                                28.510121985263428
+                            ]
+                        ]
+                    ],
+                    "address": null,
+                    "accessibility": "private",
+                    "addedBy": "3e4cdee9-0b3b-46dd-9b98-df0e38a0271c",
+                    "center": {
+                        "latitude": 28.51061652423648,
+                        "longitude": 77.47845322824035
+                    },
+                    "suggestedRadius": 0,
+                    "isOwned": null,
+                    "centerCoordinates": [
+                        77.47845322824035,
+                        28.51061652423648
+                    ],
+                    "placeId": "fe3be2a6-3a16-4d99-9450-aaa41015b188",
+                    "geoJsonBoundry": null,
+                    "externalId": null,
+                    "source": "GOOGLE",
+                    "places": [
+                        {
+                            "hubId": null,
+                            "boundary": null,
+                            "address": ",Surajpur,Gautam Buddha Nagar,Gautam Buddha Nagar,Uttar Pradesh,201306,India,in",
+                            "accessibility": null,
+                            "addedBy": null,
+                            "center": {
+                                "latitude": 28.510648500000002,
+                                "longitude": 77.47854161693084
+                            },
+                            "suggestedRadius": 2056.927098421004,
+                            "isOwned": null,
+                            "centerCoordinates": [
+                                77.47854161693084,
+                                28.510648500000002
+                            ],
+                            "placeId": "W353217244",
+                            "geoJsonBoundry": {
+                                "coordinates": [
+                                    [
+                                        [
+                                            77.4698497,
+                                            28.5144657
+                                        ],
+                                        [
+                                            77.4699845,
+                                            28.5131791
+                                        ],
+                                        [
+                                            77.470624,
+                                            28.5121761
+                                        ],
+                                        [
+                                            77.471245,
+                                            28.5115097
+                                        ],
+                                        [
+                                            77.4738906,
+                                            28.5096945
+                                        ],
+                                        [
+                                            77.4740772,
+                                            28.5095771
+                                        ],
+                                        [
+                                            77.4745047,
+                                            28.5089272
+                                        ],
+                                        [
+                                            77.4773683,
+                                            28.5064458
+                                        ],
+                                        [
+                                            77.4826039,
+                                            28.5016217
+                                        ],
+                                        [
+                                            77.4847006,
+                                            28.5000051
+                                        ],
+                                        [
+                                            77.4853241,
+                                            28.5006255
+                                        ],
+                                        [
+                                            77.4852553,
+                                            28.5010188
+                                        ],
+                                        [
+                                            77.4851003,
+                                            28.5015482
+                                        ],
+                                        [
+                                            77.4845667,
+                                            28.5035903
+                                        ],
+                                        [
+                                            77.4846356,
+                                            28.5042862
+                                        ],
+                                        [
+                                            77.4850562,
+                                            28.5057769
+                                        ],
+                                        [
+                                            77.485152,
+                                            28.5061164
+                                        ],
+                                        [
+                                            77.485393,
+                                            28.5072963
+                                        ],
+                                        [
+                                            77.4838438,
+                                            28.5082795
+                                        ],
+                                        [
+                                            77.4839126,
+                                            28.5087181
+                                        ],
+                                        [
+                                            77.484292,
+                                            28.5097873
+                                        ],
+                                        [
+                                            77.4850475,
+                                            28.5120227
+                                        ],
+                                        [
+                                            77.485023,
+                                            28.513012
+                                        ],
+                                        [
+                                            77.484979,
+                                            28.5142225
+                                        ],
+                                        [
+                                            77.4877948,
+                                            28.5169083
+                                        ],
+                                        [
+                                            77.4864851,
+                                            28.5176957
+                                        ],
+                                        [
+                                            77.4848595,
+                                            28.5187395
+                                        ],
+                                        [
+                                            77.4844538,
+                                            28.5189986
+                                        ],
+                                        [
+                                            77.4842395,
+                                            28.5191355
+                                        ],
+                                        [
+                                            77.4836351,
+                                            28.5195215
+                                        ],
+                                        [
+                                            77.482685,
+                                            28.5199343
+                                        ],
+                                        [
+                                            77.4824877,
+                                            28.5200201
+                                        ],
+                                        [
+                                            77.4820336,
+                                            28.5202174
+                                        ],
+                                        [
+                                            77.4817705,
+                                            28.5203317
+                                        ],
+                                        [
+                                            77.4814862,
+                                            28.5204552
+                                        ],
+                                        [
+                                            77.4812464,
+                                            28.5205391
+                                        ],
+                                        [
+                                            77.4807367,
+                                            28.5207173
+                                        ],
+                                        [
+                                            77.4797031,
+                                            28.5205553
+                                        ],
+                                        [
+                                            77.4789677,
+                                            28.52044
+                                        ],
+                                        [
+                                            77.4787067,
+                                            28.5203757
+                                        ],
+                                        [
+                                            77.4773095,
+                                            28.5201801
+                                        ],
+                                        [
+                                            77.4760498,
+                                            28.519822
+                                        ],
+                                        [
+                                            77.4755952,
+                                            28.5197664
+                                        ],
+                                        [
+                                            77.4750869,
+                                            28.5197043
+                                        ],
+                                        [
+                                            77.4742289,
+                                            28.5195994
+                                        ],
+                                        [
+                                            77.4739194,
+                                            28.5195616
+                                        ],
+                                        [
+                                            77.4736971,
+                                            28.5191546
+                                        ],
+                                        [
+                                            77.4733019,
+                                            28.5187153
+                                        ],
+                                        [
+                                            77.472989,
+                                            28.5183676
+                                        ],
+                                        [
+                                            77.4721595,
+                                            28.5174455
+                                        ],
+                                        [
+                                            77.4715628,
+                                            28.5167628
+                                        ],
+                                        [
+                                            77.4710428,
+                                            28.5161679
+                                        ],
+                                        [
+                                            77.4704892,
+                                            28.5168344
+                                        ],
+                                        [
+                                            77.4703248,
+                                            28.5168534
+                                        ],
+                                        [
+                                            77.4703508,
+                                            28.516476
+                                        ],
+                                        [
+                                            77.4702284,
+                                            28.5159631
+                                        ],
+                                        [
+                                            77.4701061,
+                                            28.5154795
+                                        ],
+                                        [
+                                            77.4698497,
+                                            28.5144657
+                                        ]
+                                    ]
+                                ],
+                                "type": "Polygon"
+                            },
+                            "externalId": null,
+                            "source": "GOOGLE",
+                            "places": null,
+                            "viewport": {
+                                "southwest": {
+                                    "latitude": 28.5207173,
+                                    "longitude": 77.4877948
+                                },
+                                "northeast": {
+                                    "latitude": 28.5000051,
+                                    "longitude": 77.4698497
+                                }
+                            },
+                            "district": null,
+                            "name": "Surajpur",
+                            "state": null,
+                            "category": null,
+                            "subDistrict": null,
+                            "controllingBranchId": null
+                        }
+                    ],
+                    "viewport": null,
+                    "district": "Greater Noida",
+                    "name": "SURAJPUR",
+                    "state": "UTTAR PRADESH",
+                    "category": "Hub",
+                    "subDistrict": null,
+                    "controllingBranchId": null
+                },
+                "imei": null,
+                "assosiatedShipmentsId": [
+                    "c72d59df-ff60-4273-b9b5-5838e13120e5"
+                ],
+                "status": "UPCOMING"
+            },
+            "place": null,
+            "controllingBranchId": null,
+            "gateOutTime": null,
+            "status": "UPCOMING"
+        },
+        {
+            "departureTime": null,
+            "gateInTime": null,
+            "actualActivityStartTime": null,
+            "actualActivityEndTime": null,
+            "uuid": "40da4df9-3a89-4de4-a029-53478385b26d",
+            "consignmentDelivered": null,
+            "resourceDropOff": null,
+            "resourcePickup": null,
+            "eta": null,
+            "stageName": "BHANDARA",
+            "hub": {
+                "hubId": null,
+                "boundary": [],
+                "address": null,
+                "accessibility": "private",
+                "addedBy": "3e4cdee9-0b3b-46dd-9b98-df0e38a0271c",
+                "center": {
+                    "latitude": 21.177658,
+                    "longitude": 79.6570127
+                },
+                "suggestedRadius": 5000,
+                "isOwned": null,
+                "centerCoordinates": [
+                    79.6570127,
+                    21.177658
+                ],
+                "placeId": "dbcbc236-cfbb-467c-b9d4-6573f0f6a3ca",
+                "geoJsonBoundry": null,
+                "externalId": null,
+                "source": "GOOGLE",
+                "places": [
+                    {
+                        "hubId": "dbcbc236-cfbb-467c-b9d4-6573f0f6a3ca",
+                        "boundary": null,
+                        "address": "NARKESAR WARD",
+                        "accessibility": "public",
+                        "addedBy": "e6cbf9d6-3249-450d-a36f-235e2d6d9a0a",
+                        "center": {
+                            "latitude": 21.177658,
+                            "longitude": 79.6570127
+                        },
+                        "suggestedRadius": 5000,
+                        "isOwned": false,
+                        "centerCoordinates": [
+                            79.6570127,
+                            21.177658
+                        ],
+                        "placeId": "c4ec1222-37f5-481a-b58f-25f59ee0b509",
+                        "geoJsonBoundry": null,
+                        "externalId": null,
+                        "source": "FRETRON",
+                        "places": null,
+                        "viewport": null,
+                        "district": null,
+                        "name": "BHANDARA",
+                        "state": null,
+                        "category": "Unloading Point",
+                        "subDistrict": null,
+                        "controllingBranchId": null
+                    }
+                ],
+                "viewport": null,
+                "district": "BHANDARA",
+                "name": "BHANDARA",
+                "state": "MAHARASHTRA",
+                "category": "Hub",
+                "subDistrict": null,
+                "controllingBranchId": null
+            },
+            "arrivalTime": null,
+            "expectedActivityStartTime": null,
+            "secondaryStatus": null,
+            "consignmentPickUps": null,
+            "tripPoint": {
+                "outOfTrackSince": null,
+                "creationTime": null,
+                "purpose": "Delivery",
+                "plannedArrival": null,
+                "currentGpsState": null,
+                "updates": null,
+                "uuid": "40da4df9-3a89-4de4-a029-53478385b26d",
+                "sequenceId": null,
+                "isDisconnected": false,
+                "isOutOfTrack": false,
+                "routeDeviationMinimumDistanceConstraint": null,
+                "eta": null,
+                "routeId": null,
+                "expectedActivityStartTime": null,
+                "actualDeparture": null,
+                "vehicleId": null,
+                "place": null,
+                "remainingDistance": 0,
+                "actualActivityStartTime": null,
+                "forShipmentStages": [
+                    "40da4df9-3a89-4de4-a029-53478385b26d"
+                ],
+                "actualActivityEndTime": null,
+                "actualArrival": null,
+                "purposedDistance": null,
+                "plannedDeparture": null,
+                "currentLocation": null,
+                "isAutoCompleted": false,
+                "coveredDistance": null,
+                "hub": {
+                    "hubId": null,
+                    "boundary": [],
+                    "address": null,
+                    "accessibility": "private",
+                    "addedBy": "3e4cdee9-0b3b-46dd-9b98-df0e38a0271c",
+                    "center": {
+                        "latitude": 21.177658,
+                        "longitude": 79.6570127
+                    },
+                    "suggestedRadius": 5000,
+                    "isOwned": null,
+                    "centerCoordinates": [
+                        79.6570127,
+                        21.177658
+                    ],
+                    "placeId": "dbcbc236-cfbb-467c-b9d4-6573f0f6a3ca",
+                    "geoJsonBoundry": null,
+                    "externalId": null,
+                    "source": "GOOGLE",
+                    "places": [
+                        {
+                            "hubId": "dbcbc236-cfbb-467c-b9d4-6573f0f6a3ca",
+                            "boundary": null,
+                            "address": "NARKESAR WARD",
+                            "accessibility": "public",
+                            "addedBy": "e6cbf9d6-3249-450d-a36f-235e2d6d9a0a",
+                            "center": {
+                                "latitude": 21.177658,
+                                "longitude": 79.6570127
+                            },
+                            "suggestedRadius": 5000,
+                            "isOwned": false,
+                            "centerCoordinates": [
+                                79.6570127,
+                                21.177658
+                            ],
+                            "placeId": "c4ec1222-37f5-481a-b58f-25f59ee0b509",
+                            "geoJsonBoundry": null,
+                            "externalId": null,
+                            "source": "FRETRON",
+                            "places": null,
+                            "viewport": null,
+                            "district": null,
+                            "name": "BHANDARA",
+                            "state": null,
+                            "category": "Unloading Point",
+                            "subDistrict": null,
+                            "controllingBranchId": null
+                        }
+                    ],
+                    "viewport": null,
+                    "district": "BHANDARA",
+                    "name": "BHANDARA",
+                    "state": "MAHARASHTRA",
+                    "category": "Hub",
+                    "subDistrict": null,
+                    "controllingBranchId": null
+                },
+                "imei": null,
+                "assosiatedShipmentsId": [
+                    "c72d59df-ff60-4273-b9b5-5838e13120e5"
+                ],
+                "status": "NEXT"
+            },
+            "place": null,
+            "controllingBranchId": null,
+            "gateOutTime": null,
+            "status": "NEXT"
+        }
+    ],
+    "remarks": null,
+    "syncUpExpiryTime": null,
+    "shipmentStatus": "Planned"
+}

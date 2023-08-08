@@ -1,0 +1,34 @@
+let vehicle = fleetInfo ? fleetInfo.vehicle : null;
+  json["Vehicle Type"] =
+    vehicle && vehicle.vehicleType ? vehicle.vehicleType : "";
+
+///////////////////////////////////////////////////////////////////////////////////
+    const origin = shStages && shStages.length > 0
+    ? shStages[0].place ? shStages[0].place.name : shStages[0].hub ? shStages[0].hub.name : ''
+    : '';
+
+  const destination = shStages && shStages.length > 0
+    ? shStages[shStages.length - 1].place ? shStages[shStages.length - 1].place.name : shStages[shStages.length - 1].hub ? shStages[shStages.length - 1].hub.name : ''
+    : '';
+
+  json["Origin"] = origin;
+  json["Destination"] = destination;
+  //////////////////////////////////////////////////////
+  async function task(fromTime = null, tillTime = null,orgId=null) {
+    if(orgId == "472b3c51-d8e9-4294-8a7f-a69093b505b7"){
+        TOKEN = "Beaer eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2ODgwMzE4MDcsInVzZXJJZCI6ImViZTU3NTFhLWEwNWItNDZiNi05MWI0LTFjMTEyYTkwZjYzOCIsImVtYWlsIjoic3V5YXNoLmt1bWFyQGZyZXRyb24uY29tIiwibW9iaWxlTnVtYmVyIjoiOTU1NTEwNzcwMCIsIm9yZ0lkIjoiNDcyYjNjNTEtZDhlOS00Mjk0LThhN2YtYTY5MDkzYjUwNWI3IiwibmFtZSI6IlN1eWFzaCAiLCJvcmdUeXBlIjoiRkxFRVRfT1dORVIiLCJpc0dvZCI6dHJ1ZSwicG9ydGFsVHlwZSI6ImJhc2ljIn0.Tu6YwexXDHMrfkPxGyWT--IB2lvCWNm2N1ZMwfcT8Yg"
+        ORG_ID = orgId
+    }
+    let totalShs = await getShsByFilter(fromTime, tillTime);
+    console.log(`Total Shs length OutBound : ${totalShs.length}`);
+    let jsonArr = [];
+    for (let i = 0; i < totalShs.length; i++) {
+        // if (totalShs[i].shipmentStages.length < 3) {
+        //     continue
+        // }
+        let json = await produceJsonArr(totalShs[i]);
+        jsonArr.push(json);
+    }
+    console.log(`Total sh in report outbound ${jsonArr.length}`);
+    return jsonArr
+}
